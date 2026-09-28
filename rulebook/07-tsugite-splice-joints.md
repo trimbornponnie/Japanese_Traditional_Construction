@@ -266,7 +266,7 @@ The following rules apply to every splice in this chapter in addition to → Ch.
   - dovetail length (from the male's upper shoulder to tip) ≈ 0.6–0.8 W (60–75 / 70–90 / 90–110 mm);
   - seat length s ≈ 15–30 mm (5 bu–1 sun), up to ≈ 45 mm in large members;
   - seat height: the seat is the lower part of the female's end; commonly ≈ ½ D (range ≈ 1/3–1/2 D by school);
-  - sliding slope on flare faces ≈ 1:25–1:40 over the depth (head ≈ 1–1.5 mm narrower per side at the bottom than at the top in a 105–120 mm member).
+  - sliding slope on flare faces ≈ 1:25–1:40 over the depth (i.e. of the order of 3–4.5 mm over a 105–120 mm depth; schools differ on whether this is applied to each flare face or split between them).
 - **Geometry (description):** the **female** end has, over the length s, its upper part removed down to seat height, leaving the seat (the ledge) at the bottom; behind the seat a flared socket is cut right through the depth, and the neck slot continues through the seat. The **male** end has its lower part cut back by s up to seat height on both sides of the neck, so that its upper part overhangs and rests on the female's seat; the dovetail (neck and head) projects from the male full depth and drops into the socket.
 - **Orientation rules:**
   - female (下木) is continuous over the support and cantilevers ≈ 150 mm past the support centre (→ R07-005); male (上木) rests on the seat;
