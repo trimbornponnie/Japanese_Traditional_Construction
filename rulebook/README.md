@@ -16,6 +16,13 @@ This is a working reference that gathers the **construction rules** of Japanese 
 - the **order of erection** on site (→ Ch. 15), **repair and dismantling** (→ Ch. 16), and how all of this fits **modern Japanese building law** (→ Ch. 17);
 - a **glossary** of the Japanese terms (→ Ch. 18).
 
+## At a glance
+
+- **17 chapters of rules + a glossary**, about 216,000 words.
+- **1,035 numbered rules** (R01-001 … R17-032), each with its strength (Must / Should / May) and, where needed, its reason.
+- Joint entries follow one template (use, load behaviour, proportions, orientation, marking, cutting sequence, assembly, errors, variants), with dimension tables for 105 / 120 / 150 mm and 4 / 5 *sun* members.
+- Points that could not be verified are marked in the text ("representative", "verify", "c."), and Chapters 01, 06, 07, 12, 13, 14, 16 and 17 end with a list of sources or open questions.
+
 ## How the rules are written
 
 Every normative statement is a numbered rule:
@@ -31,26 +38,26 @@ Terms appear on first use as **English gloss** (日本語, *rōmaji*). Dimension
 
 ## Table of contents
 
-| Ch. | Title | Contents |
-|---|---|---|
-| 01 | [Construction manuals & sources](01-sources-and-manuals.md) | Historical kiwari and kikujutsu manuals, modern Japanese standards, Western literature, museums, a reading path |
-| 02 | [Units, proportion & marking](02-units-proportion-and-marking.md) | Shaku-sun units, ken and tatami modules, kiwari, shiwari, sashigane, sumitsubo, marking symbols, bantsuke grid numbering, story poles |
-| 03 | [Timber: selection & orientation](03-timber-selection-and-orientation.md) | Species, grading, drying, heart and bark side, butt and top, growth orientation, defects |
-| 04 | [Tools & workshop process](04-tools-and-workshop-process.md) | Saws, planes, chisels, adzes, sharpening, the kizami workflow, surface finishes |
-| 05 | [Kikujutsu: carpentry geometry](05-kikujutsu-carpentry-geometry.md) | Slope system, kō-ko-gen triangle, hips and valleys, splayed posts, curved eaves |
-| 06 | [Joinery principles](06-joinery-principles.md) | Tsugite vs shiguchi, male and female pieces, placement, load paths, kigoroshi, tolerances, choosing a joint |
-| 07 | [Splice joints (tsugite)](07-tsugite-splice-joints.md) | Full catalogue of end-to-end joints with proportions, cutting and assembly |
-| 08 | [Connection joints (shiguchi)](08-shiguchi-connection-joints.md) | Tenons, housings, dovetails, cogging, through-members, corners, crossings |
-| 09 | [Pins, wedges & fasteners](09-pins-wedges-and-fasteners.md) | Komisen, shachisen, hanasen, kusabi, daisen, dabo, chigiri, wa-kugi, hardware, lashing |
-| 10 | [Structural frame & foundations](10-structural-frame-and-foundations.md) | Stones and sills, posts, nuki, nageshi, beams, floor framing, lateral-resistance philosophy |
-| 11 | [Roof framing & eaves](11-roof-framing-and-eaves.md) | Roof forms, wagoya, sasu, hidden roofs and hanegi, rafters, eaves, roofing materials |
-| 12 | [Bracket sets & temple/shrine orders](12-bracket-sets-and-temple-shrine-orders.md) | Kumimono, the Buddhist styles, kiwari for temples, pagodas, shrine styles, torii |
-| 13 | [Building types: minka, shoin, sukiya](13-building-types-minka-shoin-sukiya.md) | Farmhouses, townhouses, storehouses, shoin rooms, tea houses |
-| 14 | [Floors, walls, ceilings & fittings](14-floors-walls-ceilings-and-fittings.md) | Zōsaku finish carpentry, earthen walls, ceilings, tokonoma, shōji, fusuma, kumiko |
-| 15 | [Assembly sequence: tatemae](15-assembly-sequence-tatemae.md) | Setting out, raising the frame, erection order, checks and tolerances, ceremonies |
-| 16 | [Maintenance, repair & dismantling](16-maintenance-repair-and-dismantling.md) | Condition survey, netsugi, dismantling repair, Ise rebuilding, maintenance calendar |
-| 17 | [Modern codes & structural performance](17-modern-codes-and-structural-performance.md) | Building Standard Law, limit strength calculation, test research, precut |
-| 18 | [Glossary](18-glossary.md) | Japanese–English terms |
+| Ch. | Title | Contents | Rules |
+|---|---|---|---|
+| 01 | [Construction manuals & sources](01-sources-and-manuals.md) | Historical kiwari and kikujutsu manuals, modern Japanese standards, Western literature, museums, a reading path | 26 |
+| 02 | [Units, proportion & marking](02-units-proportion-and-marking.md) | Shaku-sun units, ken and tatami modules, kiwari, shiwari, sashigane, sumitsubo, marking symbols, bantsuke grid numbering, story poles | 51 |
+| 03 | [Timber: selection & orientation](03-timber-selection-and-orientation.md) | Species, grading, drying, heart and bark side, butt and top, growth orientation, defects | 61 |
+| 04 | [Tools & workshop process](04-tools-and-workshop-process.md) | Saws, planes, chisels, adzes, sharpening, the kizami workflow, surface finishes | 67 |
+| 05 | [Kikujutsu: carpentry geometry](05-kikujutsu-carpentry-geometry.md) | Slope system, kō-ko-gen triangle, hips and valleys, splayed posts, curved eaves | 44 |
+| 06 | [Joinery principles](06-joinery-principles.md) | Tsugite vs shiguchi, male and female pieces, placement, load paths, kigoroshi, tolerances, choosing a joint | 60 |
+| 07 | [Splice joints (tsugite)](07-tsugite-splice-joints.md) | Full catalogue of end-to-end joints with proportions, cutting and assembly | 76 |
+| 08 | [Connection joints (shiguchi)](08-shiguchi-connection-joints.md) | Tenons, housings, dovetails, cogging, through-members, corners, crossings | 102 |
+| 09 | [Pins, wedges & fasteners](09-pins-wedges-and-fasteners.md) | Komisen, shachisen, hanasen, kusabi, daisen, dabo, chigiri, wa-kugi, hardware, lashing | 51 |
+| 10 | [Structural frame & foundations](10-structural-frame-and-foundations.md) | Stones and sills, posts, nuki, nageshi, beams, floor framing, lateral-resistance philosophy | 88 |
+| 11 | [Roof framing & eaves](11-roof-framing-and-eaves.md) | Roof forms, wagoya, sasu, hidden roofs and hanegi, rafters, eaves, roofing materials | 50 |
+| 12 | [Bracket sets & temple/shrine orders](12-bracket-sets-and-temple-shrine-orders.md) | Kumimono, the Buddhist styles, kiwari for temples, pagodas, shrine styles, torii | 72 |
+| 13 | [Building types: minka, shoin, sukiya](13-building-types-minka-shoin-sukiya.md) | Farmhouses, townhouses, storehouses, shoin rooms, tea houses | 61 |
+| 14 | [Floors, walls, ceilings & fittings](14-floors-walls-ceilings-and-fittings.md) | Zōsaku finish carpentry, earthen walls, ceilings, tokonoma, shōji, fusuma, kumiko | 84 |
+| 15 | [Assembly sequence: tatemae](15-assembly-sequence-tatemae.md) | Setting out, raising the frame, erection order, checks and tolerances, ceremonies | 59 |
+| 16 | [Maintenance, repair & dismantling](16-maintenance-repair-and-dismantling.md) | Condition survey, netsugi, dismantling repair, Ise rebuilding, maintenance calendar | 51 |
+| 17 | [Modern codes & structural performance](17-modern-codes-and-structural-performance.md) | Building Standard Law, limit strength calculation, test research, precut | 32 |
+| 18 | [Glossary](18-glossary.md) | Japanese–English terms | — |
 
 Supporting files: [STYLE_GUIDE.md](STYLE_GUIDE.md) (authoring conventions), [CHAPTER_MAP.md](CHAPTER_MAP.md) (chapter and rule-prefix map).
 
