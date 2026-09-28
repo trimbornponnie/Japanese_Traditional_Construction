@@ -47,7 +47,7 @@ The historical detail is handled in → Ch. 01. For practice, the essentials are
 
 - **Medieval secrecy.** Before the Edo period, roof and eave layout was transmitted within carpenter lineages as secret or oral teaching (秘伝 *hiden*). The kiwari proportion books such as 『匠明』 *Shōmei* (1608, Heinouchi family; → Ch. 01, → Ch. 12) record proportions rather than layout geometry.
 - **Hinagata books.** From the late 17th and 18th centuries, printed pattern books (雛形本 *hinagata-bon*) spread standard forms. Geometry for eaves and hips began to appear in print in the late Edo period.
-- **Heinouchi Masaomi (平内廷臣, 1791–1856).** Master carpenter of the shogunate. He is generally credited with putting carpentry geometry on a systematic mathematical footing, drawing on Japanese mathematics (和算 *wasan*). His 『匠家矩術要解』 *Shōka kujutsu yōkai* is the classic treatise. Library catalogues differ on its date: the Waseda University catalogue gives Tenpō 4 (1833), and other references associate him with 1848 (Kaei 1), possibly because a second work, 『矩術新書』 *Kujutsu shinsho*, is dated to that year. The attribution of dates between his works should be checked against → Ch. 01 before quoting.
+- **Heinouchi Masaomi (平内廷臣, d. 1856; birth year given as 1791 or 1799).** Master carpenter of the shogunate. He is generally credited with putting carpentry geometry on a systematic mathematical footing, drawing on Japanese mathematics (和算 *wasan*). His 『匠家矩術要解』 *Shōka kujutsu yōkai* (1833, Tenpō 4; published under his title 平内安房) and 『矩術新書』 *Kujutsu shinsho* (1848) are the classic treatises (details and verification in → Ch. 01).
 - **Other late-Edo eave treatises** exist, for example works with titles of the type 『規矩真術軒廻図解』 (*Kiku shinjutsu nokimawari zukai*, "illustrated true kikujutsu of eave work"). This book does not assign authors or dates to them. See → Ch. 01.
 - **A caution on 『規矩元法』 *Kiku genpō*.** A work of this title held in Japanese collections (the National Diet Library "Edo no sūgaku" exhibition describes a copy) is a **surveying** text of the Shimizu school (清水流). It deals with measuring elevation and depression angles with a sighting instrument, not with carpentry. In the 17th–18th centuries 規矩術 also named the surveying art. Do not cite 『規矩元法』 as a carpentry-geometry source unless a specific carpentry text of that name is identified.
 - **Meiji to present.** Meiji-era books such as 『建築規矩術原理図解』 recast kikujutsu in terms of descriptive geometry. Twentieth-century textbooks (for example 富樫新三『図でわかる規矩術』, Ohmsha, now in a 2nd edition, and 大工道具研究会編『図解 規矩術の基礎と実践』, Seibundō Shinkōsha) are the working references today. Kikujutsu is still examined in the national carpentry skills test (建築大工技能検定).
@@ -152,8 +152,8 @@ Two values in the table are worth remembering. For the **5-sun slope** the hip l
 ### 3.3 Derived slope names
 
 - **返し勾配 *kaeshi-kōbai*** (return, or reciprocal, slope). The slope obtained by interchanging 勾 and 殳: *t* becomes 1/*t*. In sun per shaku it is 100/*h* (4 sun gives 25 sun, i.e. 2尺5寸勾配; 5 sun gives 20 sun). It is the complement of the original angle (21.8° becomes 68.2°). **Use:** the cut square to a sloping member (直角切り), laid out as a slope from the plumb; the face of a fascia set square to the rafters; the lean of splayed members stated from the vertical (§ 9). Some texts call the 返し勾配 of a splay the 転び勾配.
-- **半勾配 *han-kōbai*** (half slope). The slope with half the rise: half of 4 sun is 2 sun. It appears in some textbook procedures for marking the underside (下端) of a hip over the wall-plates. One widely circulated explanation says the half-slope arises when a distance taken along the plate (i.e. at 45° to the hip) is used instead of one square to the hip. **Flag:** that derivation was not verified for this book. Use the half-slope only inside the specific textbook procedure that prescribes it, and check it against a drawing.
-- **倍勾配 *bai-kōbai*** (double slope). Twice the rise (4 sun gives 8 sun). It occurs in some constructions, for example stepping the ridge of a double-pitched (招き屋根 *maneki-yane*) roof. Like the half-slope it is a label, not an independent geometric principle.
+- **半勾配 *han-kōbai*** (half slope). The slope with half the rise: half of 4 sun is 2 sun. Current training material uses it in some procedures for marking the underside (下端) of a hip where it sits over the wall-plates. **Flag:** this book does not derive or verify those procedures. Use the half-slope only inside the specific textbook procedure that prescribes it, and check the result against a full-size drawing.
+- **倍勾配 *bai-kōbai*** (double slope). Twice the rise (4 sun gives 8 sun). The term appears in some slope lists. **Flag:** the author has not verified a standard application in layout. Like the half-slope it is a label, not an independent geometric principle.
 - **隅勾配 *sumi-kōbai*** (hip slope). The slope of the hip itself: rise 勾 over the plan run of the hip. For a 45° hip that run is 10√2, "10 sun on the 裏目" (§ 6.2).
 - **隅返し勾配 *sumi-kaeshi-kōbai*.** The reciprocal of the hip slope, i.e. square to the hip in its own vertical plane.
 - **中勾勾配, 長玄勾配, 短玄勾配** (and their 隅 versions): see § 4.4.
@@ -232,7 +232,7 @@ The subdivision can be repeated on the small triangles CDA and CDB, which are si
 
 ### 4.4 Named slopes: using the derived lines as rises
 
-In the triangle-line method each derived line is turned into a **slope** by setting it on the short arm (in the place of 勾) against 殳 = 10 on the long arm. This book uses the convention "X-勾配 means X : 殳". Most modern textbooks do the same, but check yours.
+In the triangle-line method each derived line is turned into a **slope** by setting it on the short arm (in the place of 勾) against 殳 = 10 on the long arm. This book uses the convention "X-勾配 means X : 殳". Most modern textbooks do the same, but check yours. For the **hip triangle** the base is the hip run 隅殳 (10 on the 裏目), so 隅中勾勾配 means 隅中勾 : 隅殳.
 
 | Named slope | Ratio set on the square | tan of the line's angle | 4-sun value | 5-sun value |
 |---|---|---|---|---|
@@ -274,7 +274,7 @@ For a common rafter of slope *t*:
 - **Length** along the rafter = horizontal run × 玄/殳. A 9-shaku run at 4 sun gives 9 × 1.0770 = 9.693 shaku (≈2,937 mm).
 - **Depth on a plumb line**: a rafter of depth *d* (measured square to its slope) has a plumb depth *d* × 玄/殳. A 2-sun rafter at 4-sun slope shows 2 × 1.077 = 2.154 sun on a plumb line. This matters whenever heights are transferred with a plumb story-pole.
 
-**R05-012** — *Must.* Measure rafter lengths along a single consistent reference line: the top arris (上端), the bottom arris (下端), or the centreline. All seats and heights must be referred to the same line. *Why:* the top and bottom arrises of a sloping member reach a given plumb plane at different horizontal positions, offset by *d* · sin θ. Mixing references makes every rafter too long or too short by that amount.
+**R05-012** — *Must.* Measure rafter lengths along a single consistent reference line: the top arris (上端), the bottom arris (下端), or the centreline. All seats and heights must be referred to the same line. *Why:* on a sloping member the top and bottom lines are separated by the plumb depth *d* × 玄/殳, so a seat or plumb cut located from the top line sits at a different point on the member than one located from the bottom line. Measuring from a point on one line to a point on the other mislocates the cut by that offset, and does so on every rafter.
 
 ### 5.2 峠 *tōge* and 口脇 *kuchiwaki*: the reference points on the plates
 
@@ -339,7 +339,7 @@ The hip triangle has the same rise 勾 as the common triangle but the longer run
 
 The hip lies at the intersection of two roof planes, so its top must be **backed** (planed to a ridge, 山 *yama*) for both halves of the top to lie in the two roof planes and carry the roof boarding. The terms are:
 
-- **峠 *tōge*** of the hip: the centreline of the hip top, the crest of the 山, lying on the true hip line.
+- **峠 *tōge*** of the hip: the centreline of the hip top, the crest of the 山, lying on the true hip line. (**Flag:** some texts use 隅木の峠 also, by analogy with § 5.2, for the hip's reference point over the plate corner. Check which sense your text uses.)
 - **口脇 *kuchiwaki*** of the hip: the two lines along the side faces where the backed top meets the sides (the upper arrises). They lie in the roof planes.
 - **山勾配 *yama-kōbai*** (backing slope): the slope of each half of the top relative to a line square to the hip's side faces.
 
@@ -419,7 +419,7 @@ The end of the hip at the eave is cut to line up with the fascia or eave boards 
     - Compare the 隅返し勾配 (a line square to the hip): only *h*/√2 per 10 of height. The 投げ墨 leans **twice as much** as the hip's own square line.
     - At 4 sun, the 投げ墨 leans 5.657 sun per 10 sun of height (29.5° from plumb). The hip's square line leans 2.828 (15.8°) and the common square cut 4.0 (21.8°).
 
-On the **backed top** of the hip, in all cases (a) and (c), each half of the nose is cut on a line parallel to its own eave, because any fascia plane containing the eave direction meets the roof plane along the eave direction. On the backed half the ratio is the same as the jack's top cut, **玄 : 殳**, measured from the 口脇 toward the 峠.
+On the **backed top** of the hip, in all cases (a) and (c), each half of the nose is cut on a line parallel to its own eave, because any fascia plane containing the eave direction meets the roof plane along the eave direction. Measured on the backed half against the hip's axis, this line advances along the hip by **殳 : 玄** per unit across (from the 口脇 toward the 峠). That is the reciprocal of the jack's top cut, and the same number as the fascia's top mitre (長玄 : 殳 = 殳 : 玄), because both lines are the eave direction seen against a different axis.
 
 **R05-024** — *Must.* Never cut the end of a hip "square" (隅返し勾配) and expect it to meet fascias that are set square to the common rafters. Use the 投げ墨 (common 返し with 勾 on the 裏目). *Why:* the two lines differ by a factor of two in lean. This is the classic error the 投げ墨 exercise is designed to prevent.
 
@@ -461,7 +461,7 @@ A valley at a 90° re-entrant corner with equal pitches has exactly the hip's ge
 5. Mark the housing over the plates on the sides (plumb lines at the plate faces) and across the underside (隅玄 : 隅殳) (§ 6.5).
 6. Mark the ridge end: the plumb cut (hip slope) and the side cheeks to meet the ridge, or the opposite hip at a hipped ridge end (→ Ch. 11 § 8).
 7. Mark the jack positions along both sides, each side from its own plate-centre line (§ 6.6).
-8. Mark the eave end: plumb, or 投げ墨 for fascias square to the rafters (§ 6.7). On the top, mark lines parallel to the eaves (玄 : 殳).
+8. Mark the eave end: plumb, or 投げ墨 for fascias square to the rafters (§ 6.7). On the backed top, mark lines parallel to the eaves (殳 : 玄 against the hip axis).
 9. Before cutting, check the finished marks against a full-size section and plan of the corner (現寸), and confirm the hip length with the factor 隅玄/殳 (R05-032).
 
 ---
@@ -815,7 +815,7 @@ Kikujutsu is learned by doing a fixed sequence of exercises, mostly at reduced s
 | R05-009 | Must | Square cuts use the member's own 返し勾配. |
 | R05-010 | Should | Construct derived lines graphically and check with identities. |
 | R05-011 | Must | Label templates by line, triangle and face. |
-| R05-012 | Must | One consistent reference line for lengths. |
+| R05-012 | Must | One consistent reference line for lengths and seats. |
 | R05-013 | Must | Set heights from the plate 峠. |
 | R05-014 | Should | Bevel plates rather than deeply notching rafters. |
 | R05-015 | Must | Hip plan run = run × √2 (裏目). |
@@ -862,7 +862,7 @@ Kikujutsu is learned by doing a fixed sequence of exercises, mostly at reduced s
 | 四方転び corner marked with the lean angle instead of the 中勾勾配 | open corners | R05-034 |
 | Slope stated per span, not per run | rise doubled | R05-008 |
 | Mixing inside and outside readings on the square | slope off by the arm width | R05-005 |
-| Rafter lengths measured to inconsistent arrises | all rafters wrong by *d*·sin θ | R05-012 |
+| Rafter lengths measured between points on different arrises | every seat or plumb cut offset by the plumb-depth offset | R05-012 |
 
 **R05-043** — *Must.* Before cutting any compound-angle member, make a trial cut on an offcut of the same section and check it against its mating member or the full-size drawing. *Why:* errors in kikujutsu are systematic. One trial exposes them before they are repeated on every member, and the cost is one offcut.
 

@@ -326,20 +326,21 @@ The definitions of 本繁 and 半繁 vary between sources (whether the gap is me
 The eave (軒 *noki*) is the edge assembly of the roof. Its members differ by building type. The following entries follow the book's component template.
 
 ```
-  Eave section, double-eave temple type (schematic, not to scale)
+  Eave build-up of a double eave (二軒 futanoki), temple type.
+  Read from the top (outermost, highest layer) to the bottom (support).
 
-                         瓦 / 檜皮 roof covering
-                   _______________________________
-                  / 野地 noji (hidden roof boarding)
-     裏甲 urakō  /    野垂木 no-daruki (hidden rafter)
-  ▄▄▄▄▄▄▄▄▄▄▄▄ /
-  █ 茅負 kayaoi █_________________
-    ╲ 飛檐垂木 hien-daruki        ╲______ tail fixed on 地垂木
-      ╲      ▄▄▄▄▄▄
-        ╲    █木負 kioi█_____________________
-              ╲  地垂木 ji-daruki             ╲
-                ╲                  丸桁 gangyō ○  (on bracket sets)
-                                        ═════╪═══  側柱 column line
+  roof covering (瓦 / 檜皮 / 銅板)   laid on
+  野地 noji + 野垂木 no-daruki       hidden roof (in buildings with 野小屋), over
+  裏甲 urakō        ▭▭▭▭▭▭▭▭         roof-edge boards, laid on
+  茅負 kayaoi       █████             tip member, across the tips of
+  飛檐垂木 hien-daruki  ／／／／      flying rafters, bearing on (and tails fixed to)
+  木負 kioi         █████             lower tip member, across the tips of
+  地垂木 ji-daruki  ／／／／          lower rafters, bearing on
+  丸桁 gangyō       ○                 eave purlin, carried by the bracket sets (組物) over
+  側柱 gawa-bashira ║                 the outer columns
+
+  In plan: 茅負 is outermost; 木負 lies inboard of it by the projection of the
+  flying rafters; 丸桁 lies inboard of 木負 by the projection of the lower rafters.
 ```
 
 ### 4.1 Eave member at the rafter tips — 茅負 (kayaoi)
@@ -451,4 +452,327 @@ The term 力垂木 ("strength rafter") is used for heavier rafters inserted into
 
 ---
 
-<!-- CONTINUE -->
+## 6. Ridges and ridge ornaments
+
+### 6.1 The ridge beam — 棟木 (munagi)
+- **Class:** principal roof member (horizontal).
+- **Typical use:** the topmost purlin, carrying the upper ends of the rafters from both slopes.
+- **Load behaviour:** bending under the rafter reactions, between ridge posts (棟束 *munazuka*). In 神明造 it is carried directly by free-standing ridge posts (棟持柱). In sasu roofs it is a light pole resting in the crossing and does not work as a beam.
+- **Proportions:** in houses 3.5–4 sun square to 4 × 5 sun and more (≈105–120 × 105–150 mm), for ridge-post spacing of 1 ken. Larger in temples.
+- **Orientation:** moto/sue per the building's rule (→ Ch. 03). Splices are placed just off a ridge post, commonly with a lap-sickle on a seat (腰掛鎌継ぎ) or a pursuing splice (追掛大栓継ぎ) (→ Ch. 07). The top is bevelled to the two slopes (両流れ) to seat the rafters.
+- **Assembly:** the ridge beam is raised last in the frame. Its placing is the occasion of the ridge-raising ceremony (上棟式 *jōtōshiki* / 棟上げ; → Ch. 15). In hip roofs it receives the four hips at its two ends (§ 8.3).
+
+**R11-034** — *Must.* Support the ridge beam at every roof-post position and splice it only close to a support. The splice's male member (男木) should bear on the post side as required for the splice type (→ Ch. 07). *Why:* the ridge beam carries the upper rafter reactions from both slopes. It is the member most often seen sagging in old roofs.
+
+### 6.2 Ridges of the roof covering: 大棟, 隅棟, 降棟
+
+- **大棟 *ōmune*** (main ridge), **隅棟 *sumimune*** (hip ridge, over each 隅木), **降棟 *kudarimune*** (descending ridge along a gable verge or down the 入母屋 gable junction), and small **稚児棟 *chigomune*** at hip ends.
+- In tile roofs these ridges are **built up** of stacked ridge-course tiles (熨斗瓦 *noshi-gawara*) capped by cap tiles (冠瓦 *kanmuri-gawara* / 雁振瓦 *ganburi-gawara*). Traditionally they were bedded in mud. They are **very heavy** (a large temple's main ridge can be over a metre high) and concentrate load on the ridge and hip framing.
+- At the ends of the ridges stand **鬼瓦 *onigawara*** (ceramic ridge-end tiles, often with a demon face or a family crest) on tile roofs, or **鬼板 *oniita*** (the wooden equivalent) on shingle and bark roofs.
+- **箱棟 *hakomune*** ("box ridge"): on bark, shingle and thatched roofs, a box-shaped ridge of boards (today usually clad in copper) that caps the apex and weights the covering.
+
+**R11-035** — *Must.* Frame the ridge beam and the hips for the weight of the covering's ridges (built-up tile ridges, 箱棟, thatch ridges), not only for the rafter reactions. Fix the ridge covering mechanically to the frame (in modern tile work: a ridge core and ties to the structure). *Why:* built-up tile ridges are the heaviest line loads on the roof. Unfixed ridges were among the most common earthquake damage to tile roofs in recent Japanese earthquakes. Current Japanese rules require tiles to be fastened (→ § 7.3, → Ch. 17).
+
+### 6.3 Shrine ridge ornaments — 千木 (chigi) and 鰹木 (katsuogi)
+
+- **千木 *chigi*:** a pair of crossed, forked finials at the gable ends of the ridge. In the Shinmei style at Ise they are the **extended bargeboards** themselves, passing up through the roof. At most other shrines they are **placed chigi (置千木 *oki-chigi*)**, separate pieces fixed onto the ridge. The tips are cut vertically (外削ぎ *soto-sogi*) or horizontally (内削ぎ *uchi-sogi*). A popular belief links vertical cuts to male and horizontal cuts to female deities. It is **not a reliable rule**: the Outer Shrine at Ise (enshrining a female deity, Toyouke) has vertical cuts.
+- **鰹木 *katsuogi*:** short logs laid across the ridge at intervals. They originated as weights holding down the ridge covering of thatch or bark. The Inner Shrine at Ise has 10 and the Outer Shrine 9. A popular even/odd–female/male correspondence is likewise not consistent.
+- **Framing:** placed chigi and katsuogi are fixed through the ridge covering into the ridge beam or a ridge-cap member with tenons or dowels and are exposed to wind. Extended-bargeboard chigi are part of the gable structure.
+
+**R11-036** — *Must.* Fix placed chigi and katsuogi mechanically to the ridge structure, and flash or cap every penetration through the roof covering. *Why:* they are exposed at the highest, windiest point, and their fixings penetrate the ridge. Loose ridge ornaments and leaks at their bases are recurring maintenance items.
+
+---
+
+## 7. Roofing materials and their structural consequences
+
+The roofing material determines the **minimum pitch**, the **dead load**, the **substrate** (boards, laths, mud) and therefore the sizes of every member below. It is the first decision in roof design.
+
+### 7.1 Materials
+
+- **茅葺 *kayabuki* (thatch):** miscanthus (茅, ススキ), reed (葦), rice or wheat straw, laid thick (commonly 1.5–3 shaku, ≈45–90 cm and more at the eave) on laths lashed to the rafters. Needs **steep** pitches so water runs off before it penetrates. Light when dry, much heavier when saturated. The frame is typically a sasu truss (§ 2.5) or a wagoya carrying pole rafters.
+- **檜皮葺 *hiwadabuki* (cypress bark):** thin layers of hinoki bark (each about 1.5 mm, laid with a small exposure (葺足 *fukiashi*) of roughly 1 cm and fixed with bamboo nails 竹釘 *takekugi*), building up to a thick layer with a massive, trimmed eave edge (軒付 *nokizuke*). The highest-status traditional roofing of shrines and palaces. Moderate weight, curved profiles, needs good ventilation. It is laid on boarding over hidden rafters.
+- **杮葺 *kokerabuki* (thin wood shingles):** sawara or sugi shingles about 2–3 mm thick, split, laid with a small exposure (about 1 sun) and fixed with bamboo nails. Light. Used on tea houses, shrines and palace buildings.
+- **栩葺 *tochibuki* (thick shingles):** thicker split shingles (roughly 1–3 cm) with larger exposure. Heavier than 杮, more durable. Some regional and historical variation in naming (栩葺 vs 木賊葺 *tokusabuki* for intermediate thicknesses).
+- **銅板葺 *dōbanbuki* (copper sheet):** sheet copper in flat-lock (一文字葺 *ichimonji-buki*), standing-seam or batten-seam (瓦棒葺 *kawarabō-buki*) forms. Light, allows low pitches. Widely used since the Edo period on temple and shrine roofs, often shaped to imitate the curved profile of bark or tile roofs.
+- **瓦葺 *kawarabuki* (clay tile):**
+  - **本瓦葺 *hongawara-buki*:** alternating concave pan tiles (平瓦 *hira-gawara*) and convex cover tiles (丸瓦 *maru-gawara*). The traditional tile system of temples since the introduction of Buddhism (6th century). Very heavy, especially when bedded in mud.
+  - **桟瓦葺 *sangawara-buki*:** a single-piece S-profile tile combining pan and cover. It is traditionally attributed to 西村半兵衛 *Nishimura Hanbei* of Ōmi in 1674 (Enpō 2). Lighter and cheaper, and it made tile roofs common on townhouses in the Edo period.
+  - **土葺 *tsuchibuki*** ("mud laying"): tiles bedded on a layer of mud (葺き土 *fukitsuchi*) spread on the boarding. Heavy. Traditional until the early 20th century.
+  - **引掛桟瓦葺 *hikkake sangawara-buki*** ("hooked" tiles), also called dry laying (空葺 *karabuki*): tiles with lugs hooked over horizontal battens (瓦桟 *kawarazan*) nailed to the boarding. No mud, much lighter. The standard modern method, now with each tile fastened by nails, screws or wire.
+
+### 7.2 Pitches
+
+| Material | Representative minimum pitch | Typical traditional pitch | Notes |
+|---|---|---|---|
+| Thatch (茅葺) | ≈10 sun (矩勾配, 45°) | 10–17 sun (45–60°); 合掌造 ≈60° | steepness essential for water-shedding and durability |
+| Cypress bark (檜皮葺) | ≈5 sun | ≈5–8 sun, curved (flag) | flatter at the eave, steeper above in curved roofs |
+| Thin shingle (杮葺) | ≈4–5 sun | ≈4–7 sun (flag) | curved profiles common |
+| Thick shingle (栩葺) | ≈4 sun | similar to 杮 | — |
+| Copper flat-lock (一文字葺) | 3 sun (3/10) | 3–6 sun | modern specification minimum (JHF) |
+| Copper batten/standing seam (瓦棒葺) | 1 sun (1/10) | — | modern practice |
+| Clay pantile (桟瓦, hooked) | 4 sun (4/10) | 4–5 sun | 4/10 is the common specification minimum. Lower pitches need special tiles and underlay |
+| Clay 本瓦 | ≈4–5 sun | 5–6 sun at the eave, steeper (≈7–9 sun) toward the ridge in curved temple roofs (flag) | the curve (反り) is part of the style |
+
+Minimums for copper and clay tiles follow the Japan Housing Finance Agency (住宅金融支援機構) wooden-house specification as commonly cited. Check the current edition. Values for thatch, bark and shingle are representative of surviving practice and are flagged.
+
+**R11-037** — *Must.* Never lay a roof covering below its minimum pitch. Where the display eave must be shallower than the covering's minimum, use a hidden roof (§ 2.7) to give the covering its pitch. *Why:* below its minimum pitch every covering leaks by capillarity and wind-driven rain. This was the original reason for the hidden roof.
+
+### 7.3 Dead loads
+
+**Japanese statutory fixed loads (Building Standard Law Enforcement Order, Art. 84), per m² of roof surface, including sheathing and rafters but excluding purlins:**
+
+| Covering | Fixed load |
+|---|---|
+| Clay tile, without mud bedding (瓦葺 葺き土なし) | 640 N/m² |
+| Clay tile, with mud bedding (瓦葺 葺き土あり) | 980 N/m² |
+| Thin metal sheet (薄鉄板葺) | 200 N/m² |
+| Thick slate (厚形スレート葺) | 440 N/m² |
+| Corrugated metal fixed directly to purlins (波形鉄板葺, もや直接) | 50 N/m² |
+
+(Values as tabulated in Art. 84. → Ch. 17 for their use.)
+
+**Traditional heavy roofs are much heavier than these house values.** Temple 本瓦 roofs with thick mud bedding, large tiles and built-up ridges are commonly estimated in the range of about **1.5–2.5 kN/m² or more** (flag: this varies greatly with the mud thickness; measure in repair). Thatch is light when dry (of the order of 0.5 kN/m² or less, depending on thickness) but can roughly double when saturated. Snow is additional in all cases (→ Ch. 17).
+
+**Consequences for framing.**
+- A heavy tile roof on mud needs **closer rafter spacing, larger rafters and purlins, and deeper roof beams** than a light roof (§ 10). The same frame designed for copper cannot simply be re-roofed in mud-laid tile.
+- The heavy roof **stabilises** the frame against overturning and holds down the hanegi tails. It also increases the seismic mass, which is the main reason heavy-tiled buildings suffered in 20th-century earthquakes when the walls were weak (→ Ch. 17).
+- Tile weight concentrates at the **ridges and eaves** (built-up ridges, eave-edge tiles, gutters).
+- Since the Japanese rules for fastening tiles were revised (effective January 2022 for new construction), **every tile** of a new tile roof must be fastened. Mud-bedding alone is no longer an acceptable fixing (→ Ch. 17).
+
+**R11-038** — *Must.* Size the whole roof frame (rafters, purlins, roof beams, plates, posts) for the actual covering, including mud bedding, ridges, snow and wind uplift. A change of covering in repair requires a re-check of the frame. *Why:* the covering is the largest variable load in the structure. Heavier re-roofing overloads old frames, and lighter re-roofing unbalances cantilevers and reduces hold-down (R11-019).
+
+**R11-039** — *Should.* In repair of mud-laid tile roofs, reduce the mud to the minimum needed, or convert to dry hooked tiles with fastening, where heritage rules allow. Record the original method. *Why:* it reduces seismic mass and the load on aged framing while retaining the appearance. Heritage buildings may require the original method (→ Ch. 16, → Ch. 17).
+
+---
+
+## 8. Hips and valleys in practice
+
+The geometry of hips, valleys and jack rafters is in → Ch. 05 §§ 6–8. This section covers the structural and practical details.
+
+### 8.1 The hip — 隅木 (sumigi)
+- **Class:** principal roof member (inclined).
+- **Typical use:** along each hip of 寄棟, 入母屋 and 宝形 roofs, from the eave corner to the ridge end (or apex, or gable plane).
+- **Load behaviour:** carries the jack rafters from both sides and the hip ridge covering (隅棟). It **cantilevers diagonally** beyond the plate corner, with a projection √2 times the eave projection in plan (→ R05-015). It is the most heavily loaded cantilever in the roof.
+- **Proportions (representative):** in houses about 3.5–4 sun wide × 5–7 sun deep (≈105–120 × 150–210 mm), i.e. deeper than the rafters by enough to receive the jacks after backing and housing. In temples it is far larger and often tapered in depth toward the tip.
+- **Orientation:** moto (butt end) toward the eave (the cantilever end), where the moment is largest (→ Ch. 03). The backed top (山) follows the roof planes.
+- **Marking:** → Ch. 05 § 6.10.
+- **Assembly:** see §§ 8.2–8.3.
+- **Common errors:** a single plate-centre line on the hip sides (→ R05-020); an unbacked visible hip; an inadequate tail hold-down; a tail supported on a rafter.
+
+### 8.2 The hip at the plate crossing
+- At the external corner (出隅 *dezumi*) the two wall-plates cross over the corner post. They are joined with a lap (相欠き), a twisted lap (捻組 *nejigumi*) or a helmet-dovetail variant (→ Ch. 08). The corner post's tenon passes up through both.
+- The hip passes over the crossing. Its underside is **housed** over the plates (欠き込み). The plate tops at the crossing are cut down (隅木欠き) to receive it, so that the hip's 口脇 lies in the roof planes (→ R05-021, and the worked depths in → Ch. 05 § 7.2).
+- The hip is fixed to the plates: traditionally with long nails or iron spikes (大釘, 隅木釘) through the hip into the plate crossing, today with a hip bolt or strap (隅木ボルト) down into the corner.
+- In temples the corner receives the **corner bracket set (隅組物)** and a corner tail rafter (隅尾垂木) or corner hanegi. The hip rests on the corner bracket's top and is held down at its tail.
+
+**R11-040** — *Must.* Fix the hip down at the plate crossing against uplift and rotation, and hold its tail down at the upper support. *Why:* the hip is a diagonal cantilever. Under eave loads its tail tends to rise and its seat to rotate, and under wind the corner is the most exposed part of the roof. Corner sag and corner uplift are both classic failures.
+
+### 8.3 Hip tails and intermediate support
+- **At the ridge:** in a 寄棟 roof the two hips at each end meet the ridge beam's end. The ridge beam projects slightly beyond the last common rafters, and the hips are cut to its sides and nailed or bolted, or joined to each other over the ridge end with a mitre (拝み).
+- **In a 宝形:** all hips meet at the central post (R11-003).
+- **Intermediate support:** long hips need posts (隅束 *sumizuka*) under them, standing on **flying beams (飛び梁 *tobi-bari*)**. These run from the plate corner (or near it) diagonally to the nearest roof beam, or on a short beam between roof beams, because a hip does not lie over the orthogonal roof-beam grid.
+- **In a hidden roof (temples):** the hip tail is held down under a purlin or a hold-down beam, or it acts as a hanegi itself. Corner hanegi (隅桔木) are commonly doubled because of the long diagonal cantilever.
+
+**R11-041** — *Must.* Provide a structural support (post on a flying beam, the ridge end, or a central post) under the hip at least every 1–1.5 ken (≈1.8–2.7 m) of hip plan length in houses, and never support a hip on jack rafters. *Why:* the hip is loaded by all the jacks on both sides. Jacks are the members it is supposed to carry, not its supports. (Spacing representative; check by calculation for heavy roofs.)
+
+**R11-042** — *Should.* Give the eave corner a margin of strength beyond the common eave: a deeper hip, a doubled corner hanegi or a stronger corner bracket, and more fixing. *Why:* the corner cantilever is √2 times as long as the common eave and carries the jacks, the hip ridge and the ridge-end ornaments. Old buildings almost always sag first at the corners.
+
+### 8.4 Valleys — 谷木 (tanigi) and the valley gutter
+- **谷木 *tanigi*** (valley rafter) runs from the internal corner (入隅 *irizumi*) of the plates up to the ridge or a junction, carrying the jacks of both slopes. Its geometry is the hip's inverted (→ Ch. 05 § 6.9).
+- **Load behaviour:** unlike the hip, it does not cantilever at the eave (the internal corner has no projection outward). It is a beam **loaded on both sides**, and it collects snow and water.
+- **Valley gutter (谷樋 *tanidoi*):** the valley is lined with a metal gutter (historically lead or copper; today copper or stainless steel) on boarding (谷板). Valleys concentrate water and snow. Leaks cause decay of the valley rafter and the jacks.
+- **In tile roofs** the valley is formed by cut tiles on the lining. **In thatch** valleys are avoided as far as possible, since they are the weakest part of a thatched roof.
+
+**R11-043** — *Must.* Size the valley rafter as a beam carrying the jacks of both slopes plus concentrated snow, support it at the ridge or junction and at intermediate posts, and provide a continuous lined valley with adequate width and fall. *Why:* valleys carry the highest snow loads and the most water on the roof. Undersized or poorly lined valleys fail by sagging and decay.
+
+**R11-044** — *Should.* Avoid valleys in thatched and bark roofs where the plan allows. Where they are unavoidable, make them wide, well-pitched and accessible for maintenance. *Why:* organic coverings cannot be made watertight in a valley as they can on a plane slope. Valleys are their first point of failure.
+
+---
+
+## 9. Roof curvature: 反り sori and 起り mukuri
+
+### 9.1 Vocabulary
+- **反り *sori*** (also 照り *teri*): a **concave** roof profile (and the concave upswept eave line), sagging in the middle and lifting at the eave. It is characteristic of temple and many shrine roofs.
+- **起り *mukuri*:** a **convex** roof profile, bulging upward. It is characteristic of sukiya buildings, tea houses and some townhouses (e.g. slight mukuri on Kyoto machiya), and of the central part of the karahafu.
+- **照り起り *teri-mukuri*:** a compound profile combining convex and concave parts (convex above turning concave toward the eave, or the reverse). It is found in some shrine roofs and in the karahafu. **Flag:** the term is used for somewhat different profiles by different authors.
+- The **eave curve in elevation and plan** (軒反り, 反り上がり at the corners) is treated in → Ch. 05 § 10.
+
+### 9.2 How curves are produced in the frame
+
+1. **Curved rafters.** Rafters are sawn to a curved profile (from curved stock, or with a curved top) or bent (thin rafters, bent over purlins set on a curve). This is used for display rafters in curved eaves and for mukuri roofs of sukiya.
+2. **Purlins set on a curve, straight rafters.** In a hidden roof, the hidden purlins (野母屋) are set at heights taken from a full-size section of the desired roof curve. The hidden rafters (野垂木) run straight between them, giving a polygonal approximation, or are shimmed (飼い木 *kaigi*) or bent to a fair curve. This is the usual way the concave 反り of large temple roofs is made. It is independent of the visible eave (§ 2.7).
+3. **Eave curve through the eave members.** The upsweep toward the corners is produced by the 茅負 and 木負 curves and the lift of the rafter tips (→ Ch. 05 § 10).
+4. **Curve made by the covering.** In thatch and bark roofs part of the curve is formed in the covering itself: the thickened eave edge (軒付) of bark roofs, and the shaping of the thatch by the thatcher.
+5. **Mukuri** is produced by setting the purlins on a convex curve (higher in the middle of the slope) and bending the thin rafters over them, or by cutting the rafter tops convex.
+
+**R11-045** — *Must.* Draw the roof curve at full size in section (and the eave curve in elevation and plan) before setting any purlin or cutting any rafter, and set every purlin height from that drawing with a story-pole. *Why:* a curve assembled by eye from member to member accumulates errors and produces kinks. The roof profile, like the eave line, is only fair if it comes from one drawing (→ R05-037).
+
+**R11-046** — *Should.* Produce the main roof curvature in the hidden roof (purlin heights), not by forcing curvature into the covering. *Why:* coverings (especially tile) are designed to lie on a fair plane or gentle curve. Excess curvature in the substrate opens tile laps or stresses shingles and sheet metal.
+
+**R11-047** — *Must.* In a concave (反り) roof, check the pitch at the flattest part (usually just above the eave) against the covering's minimum pitch (§ 7.2). *Why:* the average pitch of a curved roof may be adequate while the flattest zone is below the minimum. Leaks and decay then concentrate just behind the eave.
+
+---
+
+## 10. Representative member sizes
+
+The sizes below are **representative** of 20th-century Japanese house carpentry practice and common manuals, for sugi (Japanese cedar) or matsu (pine) in a wagoya with a clay-tile roof (hooked tiles, no mud bedding) and moderate snow. They are a starting point for design and a check on existing buildings, **not** a substitute for calculation or for published span tables. Examples are the span tables for horizontal members of post-and-beam houses (横架材のスパン表) published by the Japan Housing and Wood Technology Center (日本住宅・木材技術センター) (→ Ch. 17).
+
+### 10.1 Grid and spacing (houses)
+
+| Item | Representative value |
+|---|---|
+| Roof-beam (小屋梁) spacing | 1 ken (≈1,820 mm) |
+| Roof-post (小屋束) spacing along a beam | 3 shaku (≈910 mm), under each purlin |
+| Purlin (母屋) spacing (horizontal) | 3 shaku (≈910 mm) |
+| Rafter spacing | 1.5 shaku (≈455 mm); 1 shaku (≈303 mm) for heavy roofs or deep eaves |
+| Sway bracing (振れ止め) | one line along the roof at mid-height of the roof posts (two or more in tall roofs) |
+| Roof braces (小屋筋かい) | at both gable ends and about every 4 ken (≈7.3 m) along the building |
+
+### 10.2 Member sections (houses)
+
+| Member | Light roof (metal, shingle) | Tile roof (hooked, no mud) | Notes |
+|---|---|---|---|
+| Rafter (垂木), eave up to ≈2.5 shaku | 1.5 × 1.5 sun (45 × 45 mm) | 1.5 × 1.5 to 1.5 × 2 sun (45 × 45 to 45 × 60 mm) | @ 455 mm |
+| Rafter, eave ≈3–4 shaku | 1.5 × 2 sun (45 × 60 mm) | 1.5 × 2.5 sun (45 × 75 mm) or @ 303 mm | or 出桁造 |
+| Purlin (母屋), span 1 ken | 3 × 3 sun (90 × 90 mm) | 3.5 × 3.5 sun (105 × 105 mm) | — |
+| Ridge beam (棟木) | 3.5 × 3.5 sun (105 × 105 mm) | 3.5 × 4 to 4 × 5 sun (105 × 120 to 120 × 150 mm) | carries the ridge covering |
+| Roof post (小屋束) | 3 × 3 sun (90 × 90 mm) | 3.5 × 3.5 sun (105 × 105 mm) | — |
+| Wall-plate (軒桁), post spacing 1 ken | 3.5 × 4 sun (105 × 120 mm) | 3.5 × 5 sun (105 × 150 mm) | 京呂組: check the beam point loads (R11-009) |
+| Wall-plate, post spacing 2 ken | 4 × 7 to 4 × 8 sun (120 × 210–240 mm) | 4 × 8 to 4 × 9 sun (120 × 240–270 mm) | — |
+| Hip (隅木) | 3.5 × 5 sun (105 × 150 mm) | 3.5 × 6 to 4 × 7 sun (105 × 180 to 120 × 210 mm) | deeper for deep eaves |
+
+### 10.3 Roof beams (小屋梁) vs span
+
+Rectangular sawn beams at 1-ken spacing (representative, tile roof):
+
+| Span | Beam (width × depth) | Round log (松 丸太) small-end diameter (末口), representative |
+|---|---|---|
+| 1 ken (≈1.8 m) | 105 × 150 mm (3.5 × 5 sun) | ≈4 sun (120 mm) |
+| 1.5 ken (≈2.7 m) | 105 × 210–240 mm (3.5 × 7–8 sun) | ≈5 sun (150 mm) |
+| 2 ken (≈3.6 m) | 120 × 270–300 mm (4 × 9–10 sun) | ≈6 sun (180 mm) |
+| 2.5 ken (≈4.5 m) | 120 × 330–360 mm (4 × 11–12 sun) | ≈7–8 sun (210–240 mm) |
+| ≥ 3 ken (≈5.5 m) | intermediate support (牛梁, interior post) or 二重梁 / truss | large logs, or a supporting beam |
+
+A crude rule of thumb that reproduces the rectangular column: **depth ≈ span / 12** for tile roofs (≈ span / 15 for light roofs). **Flag:** this is a mnemonic, not a design rule. Deflection and snow usually govern.
+
+**Log beams (丸太梁)** in minka are pine (松) logs, often naturally curved, used with the **camber (curve) upward** (背を上に) so that the load straightens rather than increases the bend. They are dressed on two faces (太鼓落とし *taiko-otoshi*) or left round. They are graded by small-end diameter (末口), and the small end must be checked for the beam's critical section. They are placed moto/sue per the building's rule (→ Ch. 03), and spliced over supports with the pursuing splice with draw-pins (追掛大栓継ぎ) or the pursuing splice on a seat (台持継ぎ) (→ Ch. 07).
+
+**R11-048** — *Must.* Set curved log beams with the convex side (背 *se*) upward. *Why:* the load then works against the natural curve and the beam stays straight or slightly cambered in service. Laid convex-down, it sags visibly from the start and its grain is loaded in the weaker sense (→ Ch. 03).
+
+**R11-049** — *Must.* Size log beams at their **small end** (末口) or at the critical section where the bending moment is largest, not at the average diameter. *Why:* logs taper. The small end is the weakest point and is often at or near a support where shear and bearing govern.
+
+### 10.4 Worked check (representative, dead load only)
+
+Tile roof without mud bedding, 640 N/m² per the statutory value + purlins, taken as ≈0.98 kN/m² per roof area to include some margin. 5-sun pitch (slope factor 1.118), sugi, E ≈ 7,000 N/mm²:
+
+| Member | Load | Max bending stress | Mid-span deflection (dead load only) |
+|---|---|---|---|
+| Rafter 45 × 45 @ 455, span 910 mm between purlins | ≈0.50 kN/m | ≈3.4 N/mm² | ≈1.9 mm (≈span/490) |
+| Purlin 105 × 105, span 1,820 mm, purlins @ 910 | ≈1.0 kN/m | ≈2.1 N/mm² | ≈2.0 mm (≈span/900) |
+| Roof beam 120 × 270, span 3,640 mm, beams @ 1,820 (+0.2 kN/m² ceiling) | ≈2.36 kN/m (as uniform) | ≈2.7 N/mm² | ≈3.9 mm (≈span/930) |
+
+These dead-load stresses are well within sugi's long-term allowable bending stress (of the order of 8 N/mm² for structural sugi; → Ch. 17). The margin is consumed by **snow** (1 m of snow ≈ 2–3 kN/m² or more in heavy-snow regions), **creep** (long-term deflection of timber roughly doubles the instantaneous value), **wind uplift at the eave**, **point loads** from roof posts and **the eave cantilever**. The eave cantilever governs rafter size: for 45 × 45 rafters with a 600 mm eave the dead-load bending stress at the plate is already ≈6 N/mm². That is why deeper eaves call for 45 × 60 rafters or closer spacing (§ 10.2).
+
+**R11-050** — *Must.* Check rafters at the **eave cantilever** (moment at the plate) as well as between purlins, and check all roof members for snow and long-term deflection (creep), not only for strength under dead load. *Why:* in most traditional roofs the eave cantilever and long-term sag, not mid-span strength, govern the member sizes. Sagging eaves are the most common roof defect in old buildings.
+
+---
+
+## 11. Checklist of common errors
+
+| Error | Consequence | Rule |
+|---|---|---|
+| Verge hung from the bargeboard | verge droops, bargeboard torn off in wind | R11-001 |
+| 入母屋 gable resting on rafters | local sag, cracked rafters | R11-002 |
+| Loose apex of a pyramidal roof | hips slide, eaves spread | R11-003 |
+| Hidden valley gutter under-designed | decay at the junction of joined halls | R11-004, R11-043 |
+| Posts removed from a wagoya / sasu tie cut | collapse or spreading of the roof | R11-005, R11-013 |
+| No longitudinal bracing in the roof | roof racks in earthquake | R11-006 |
+| Roof post off the purlin line or unaccounted mid-span load | beam overloaded | R11-008 |
+| 京呂組 plate not sized for the beam loads | plate sags between posts | R11-009 |
+| Wall-head joint without uplift fixing | roof separates in typhoon or earthquake | R11-011 |
+| Sloping beams against an unsupported ridge | walls pushed out | R11-012 |
+| Rigid plate at sasu foot | beam-end splits | R11-014 |
+| King post bearing on the tie | tie loaded in bending, truss sags | R11-016 |
+| Hanegi tail held only by roof weight | eave drops, especially after lighter re-roofing | R11-017, R11-019 |
+| Rafter spacing not an integer 枝 | rafters off-centre over brackets | R11-020 |
+| Rafters not fixed at the plate | progressive stripping in typhoon | R11-022 |
+| Exposed rafter end grain unprotected | early decay of the rafter tips | R11-024 |
+| Eave members curved from the installed rafters | lumpy eave line | R11-025 |
+| Joints of eave boards between rafters | open joints, broken edges | R11-026 |
+| Bargeboard not fixed to the purlin ends | torn off in wind | R11-027 |
+| Eave rafter spliced or tail unfixed | eave hinges and drops | R11-030 |
+| Loose 腕木 through-tenon | outer plate drops | R11-031 |
+| Built-up tile ridges unfixed or not allowed for | ridge collapse in earthquake, overloaded ridge beam | R11-035 |
+| Covering below its minimum pitch (or at the flat part of a curved roof) | leaks just behind the eave | R11-037, R11-047 |
+| Re-roofing with a heavier covering without a check | frame overloaded | R11-038 |
+| Hip supported on jacks, or hip tail loose | corner sag or uplift | R11-040, R11-041 |
+| Curved log beam laid convex-down | visible sag from the start | R11-048 |
+| Rafters sized for mid-span only | eave sag | R11-050 |
+
+### 11.1 Rule index
+
+| Rule | Strength | Summary |
+|---|---|---|
+| R11-001 | Must | Verge carried on extended purlins/ridge/plates over an interior support. |
+| R11-002 | Must | 入母屋 gable on a structural sill, not on rafters. |
+| R11-003 | Must | 宝形 central post supported; hips fixed to it. |
+| R11-004 | Must | Design valley gutters of joined roofs first. |
+| R11-005 | Must | Identify the structural system and its load path. |
+| R11-006 | Must | Brace wagoya longitudinally (振れ止め, 小屋筋かい). |
+| R11-007 | Should | Standard grid: beams 1 ken, posts and purlins 3 shaku. |
+| R11-008 | Must | Roof posts square on the beam, under the purlin. |
+| R11-009 | Must | 京呂組 plates sized for beam point loads. |
+| R11-010 | Should | Choose 折置/京呂 by logic. Retain the original in repair. |
+| R11-011 | Must | Fix the beam–plate joint against uplift. |
+| R11-012 | Must | Sloping beams need a supported ridge or tied feet. |
+| R11-013 | Must | Never cut the sasu tie-beam. |
+| R11-014 | Should | Sasu feet in rotating sockets, not rigid plates. |
+| R11-015 | Should | Renew sasu lashings with re-thatching. |
+| R11-016 | Must | King post hangs. Heel joints take the full thrust. |
+| R11-017 | Must | Hanegi: solid fulcrum, anchored tail. |
+| R11-018 | Must | Hidden roof must not load the display rafters unintentionally. |
+| R11-019 | Should | Re-check hanegi anchorage on lighter re-roofing. |
+| R11-020 | Must | Bays are integral numbers of 枝 (temple/shrine). |
+| R11-021 | Should | House rafters @ 455 (or 303) mm aligned with the module. |
+| R11-022 | Must | Fix rafters against uplift. Splice only over purlins. |
+| R11-023 | Should | Top-nailing, nail length ≈2.5 × rafter depth, pre-bore. |
+| R11-024 | Must | Protect exposed rafter end grain. |
+| R11-025 | Must | Eave-member curves from the single full-size curve. |
+| R11-026 | Must | Joint eave members only over rafters. Stagger the layers. |
+| R11-027 | Must | Bargeboards fixed to purlin ends. Positive apex joint. |
+| R11-028 | Should | Cover the top edge and ventilate the back of bargeboards. |
+| R11-029 | Should | House eaves ≥ 2.5–3 shaku on weather sides. |
+| R11-030 | Must | Eave rafters continuous over the plate and first purlin. |
+| R11-031 | Must | 腕木 through-tenons tight. Moment designed. |
+| R11-032 | Must | Identify which temple eave elements actually carry load. |
+| R11-033 | Should | Heavier rafters at concentrated loads. |
+| R11-034 | Must | Ridge beam supported at every post, spliced near supports. |
+| R11-035 | Must | Frame for, and fix, the ridge coverings. |
+| R11-036 | Must | Fix chigi and katsuogi. Flash the penetrations. |
+| R11-037 | Must | Respect the covering's minimum pitch. Use a hidden roof if needed. |
+| R11-038 | Must | Size the frame for the actual covering. Re-check on change. |
+| R11-039 | Should | Reduce mud bedding in repair where permitted. |
+| R11-040 | Must | Hip fixed at the plate and held down at the tail. |
+| R11-041 | Must | Hip supported every 1–1.5 ken, never on jacks. |
+| R11-042 | Should | Extra strength at the eave corner. |
+| R11-043 | Must | Valley rafter sized as a beam. Lined valley with fall. |
+| R11-044 | Should | Avoid valleys in thatch and bark roofs. |
+| R11-045 | Must | Full-size roof-curve section before setting purlins. |
+| R11-046 | Should | Curve in the hidden roof, not forced into the covering. |
+| R11-047 | Must | Check the flattest part of a curved roof against the minimum pitch. |
+| R11-048 | Must | Curved log beams convex side up. |
+| R11-049 | Must | Size log beams at the small end or critical section. |
+| R11-050 | Must | Check rafters at the eave cantilever, for snow and creep. |
+
+### 11.2 Cross-references
+
+- Geometry of slopes, hips, valleys, jacks, fascia mitres and eave curves: → Ch. 05.
+- Splices of plates, purlins, ridge and log beams: → Ch. 07. Plate crossings, beam-to-plate joints: → Ch. 08.
+- Rafter nails, wa-kugi, straps and bolts: → Ch. 09.
+- Posts, plates, beams, bracing below the roof: → Ch. 10.
+- Bracket sets, 尾垂木, 枝割, temple and shrine styles and eave proportions: → Ch. 12.
+- Minka, machiya, sukiya roofs: → Ch. 13. Ceilings under the roof: → Ch. 14.
+- Ridge-raising and roof erection order: → Ch. 15.
+- Re-thatching, re-roofing, repair of sagging eaves and hanegi: → Ch. 16.
+- Loads, span tables, tile-fastening rules, Building Standard Law: → Ch. 17.
+
