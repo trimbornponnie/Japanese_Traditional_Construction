@@ -281,7 +281,7 @@ Japanese architectural historians recognise, after the Asuka/Nara period's conti
 | Columns | round, plain ends, on stone | round, large, tall | round with 粽 (chimaki) at ends, on 礎盤 (soban) | round |
 | Ceiling | coffered/ruled (格天井, 小組格天井); or 化粧屋根裏 | none (roof structure exposed) | 鏡天井 (flat board mirror ceiling) at centre; exposed structure around | varies |
 | Openings | 板扉, 蔀戸, 連子窓 | 桟唐戸 (framed doors); 藁座 | 桟唐戸 on 藁座; 花頭窓; 弓欄間 | mixed |
-| Floor | raised wooden floor (床張り) | earth/stone floors typical | stone or tile paved floor (土間, 瓦敷) | usually raised wooden |
+| Floor | raised wooden floor (床張り) | varies (gates have none; check each building) | stone or tile paved floor (土間, 瓦敷) | usually raised wooden |
 | Examples | Byōdō-in Hōōdō (1053); Sanjūsangendō (Rengeō-in Hondō, 1266); Daihōon-ji Hondō (1227) | Tōdai-ji Nandaimon (1199, completed c. 1203); Jōdo-ji Jōdodō, Ono (1194) | Kōzan-ji Butsuden, Shimonoseki (1320); Shōfuku-ji Jizōdō, Higashimurayama (1407); Engaku-ji Shariden (15th c.) | Kakurin-ji Hondō, Kakogawa (1397); Kanshin-ji Kondō (14th c.); Jōdo-ji Hondō, Onomichi (1327) |
 
 Dates are those commonly given in Japanese designation records; completion versus ridge-raising (jōtō) dates differ by a few years in several cases (e.g. Jōdo-ji Jōdodō: completion usually given as 1194, with some sources citing 1197 for its dedication; Tōdai-ji Nandaimon: jōtō 1199, statues installed 1203).

@@ -287,3 +287,271 @@ The *tōryō* briefs the crew, the *tobi* and the crane operator on:
 
 **R15-019** — **Must.** Every person on site knows the erection order and their role, and the hand signals for the crane, before the first lift. One person gives crane signals (合図者 *aizu-sha*).
 
+---
+
+## 7. The raising (*tatemae*): crew, tools, general principles
+
+**Terms.**
+- 建方 *tatekata* is the technical term for frame erection.
+- 建前 *tatemae* and 棟上げ *muneage* are the everyday terms for the raising day, which ends with the ridge.
+- 上棟 *jōtō* ("raising the ridge") names the milestone and the ceremony (§13).
+
+### 7.1 Crew
+
+| Role | Japanese | Task |
+|---|---|---|
+| Master carpenter | 棟梁 *tōryō* | Directs the raising; holds the *itazu*; decides sequence changes; checks every principal joint |
+| Carpenters | 大工 *daiku* | Up-frame (上回り *uemawari*): receive and seat members, drive joints, pin, wedge. Ground crew (下回り *shitamawari*): sort, sling, feed members in order |
+| Scaffolders / riggers | 鳶 *tobi* | Traditionally in charge of lifting gear, heavy members and scaffolds, and of *kiyari* chants; today they erect the scaffold and often sling for the crane |
+| Crane operator | オペレーター | Mobile crane (commonly a rough-terrain crane, ラフタークレーン) |
+| Signaller | 合図者 | One designated person |
+| Helpers | 手伝い | Historically neighbours in village mutual-aid groups (結 *yui*, 手間替え *temagae*), especially for minka and thatched roofs |
+
+A house frame of ~30–40 tsubo (100–130 m²) is typically raised in one day by a crew of about 5–10 carpenters with a crane. Temple frames take weeks to months.
+
+### 7.2 Tools on site
+
+| Tool | Japanese | Use |
+|---|---|---|
+| Large wooden mallet | 掛矢 *kakeya* | Driving joints home. Head of hard oak (樫 *kashi*) or other hardwood, 1–2 kg class up to heavier; long handle |
+| Heavy mallet | 大槌 *ōtsuchi* | Heavier driving (temple members) |
+| Striking pad | 当て木 *ategi* | Sacrificial block between mallet and member, protecting finished surfaces |
+| Plumb bob | 下げ振り *sagefuri* | Plumbing posts |
+| Frame puller | 屋起こし *yaokoshi* | Tensioning device (wire rope with ratchet, turnbuckle or lever) used to pull a frame into plumb |
+| Chain block / lever hoist | チェーンブロック / レバーブロック | Modern pulling and fine adjustment |
+| Ropes | ロープ, 綱 | Tag lines for guiding lifted members; pulling posts |
+| Shear legs / gin pole | 二又 *nimata* / 三又 *mitsumata* | Pre-crane lifting frames with pulleys (滑車 *kassha*) |
+| Capstan / winch | 神楽桟 *kagurasan*, ろくろ | Pre-crane hauling of heavy temple members |
+| Crowbar | バール, 梃子 *teko* | Levering members into position |
+| Temporary braces | 仮筋交い *kari-sujikai* | Holding plumb until permanent bracing/walls |
+| Pins, wedges, pegs | 込み栓, 楔, 鼻栓, 車知 | Prepared in advance in bundles, labelled by joint type (→ Ch. 09) |
+| Drill / auger | 錐 / ドリル | Pin holes where not pre-bored |
+| Hand tools | 鑿, 鋸, 鉋 | Minor fitting only; major fitting should not be necessary |
+
+**R15-020** — **Must.** Never strike a finished (show) surface directly with the *kakeya*. Always use an *ategi* (pad block) and strike in line with the joint's direction of insertion.
+*Why:* A *kakeya* leaves a crushed dent in soft timber such as sugi and hinoki that remains visible. A blow off-axis bends the tenon and splits the mortise.
+
+### 7.3 General principles of erection
+
+**R15-021** — **Must.** Erect from the bottom up and from a fixed starting point outward. Each new member is added to a part of the frame that is already stable (braced or held by previously seated members).
+
+**R15-022** — **Should.** Start at the corner or bay containing the most *tōshibashira*, or the *daikoku-bashira* in a minka. This is usually the area where the heaviest members and the most complex joints are. Then advance bay by bay.
+*Why:* Heavy, complex joints are easier to assemble when the surrounding frame is open and can be spread (§10). The completed stiff core then serves as the anchor for plumbing the rest.
+
+**R15-023** — **Must.** Follow the erection order planned on the *itazu*. Deviations must be decided by the *tōryō* and checked for joint insertion directions.
+*Why:* Some joints can only be assembled if a neighbouring member is **not yet** in place (§10).
+
+**R15-024** — **Should.** Complete each horizontal level (ring) — posts plus the members that tie them — around the building or at least the current section, before loading the next level. Brace temporarily as you go.
+
+---
+
+## 8. Canonical erection order: two-storey house on a sill
+
+The following order is the typical sequence for a traditional or conventional two-storey house with *tōshibashira* on a sill. It is **representative**; the details follow the joints chosen.
+
+| Step | Members | Japanese | Notes and reasons |
+|---|---|---|---|
+| 0 | Sills (and ground floor framing) | 土台 (大引・床束) | Laid and bolted earlier (§4.2). The floor framing, often with a temporary floor, gives a safe working platform. |
+| 1 | *Tōshibashira* | 通し柱 | Heavy, long; set first at corners and key intersections; temporarily braced in two directions. They define the vertical geometry of the whole frame. |
+| 2 | Ground-floor *kudabashira* | 1階管柱 | Set into sill mortises in grid order. Short posts are stood by hand. |
+| 3 | 1F horizontal members: *nuki* / *sashigamoi* / *kamoi* (as designed) | 貫・差鴨居 | *Nuki* threaded through posts (§11.2); *sashigamoi* inserted with the posts spread. In conventional precut frames these are absent and walls are braced later. |
+| 4 | Second-floor girders and floor beams | 胴差し・2階床梁 | *Dōsashi* between *tōshibashira* and onto *kudabashira* tops. The *tōshibashira* must be spread (開く) to accept *dōsashi* ends. Then floor beams drop onto *dōsashi* (*arikake*, *watari-ago*). |
+| 5 | (2F floor framing / temporary floor) | 2階床組 | Joists or plywood deck laid as work platform, at least partly. |
+| 6 | Second-floor posts | 2階管柱 | Stood on *dōsashi* and beams. |
+| 7 | Eaves plates and gable beams | 軒桁・妻梁 | Plates dropped onto post tenons; splices set in order (lower piece first). |
+| 8 | Roof beams | 小屋梁 | On plates (*kyōro-gumi*) or directly on posts with plates above (*orioki-gumi*, → Ch. 10 §10.5). Log beams are placed with the camber up (→ R10-063). |
+| 9 | Roof struts | 小屋束 | Stood on beams in grid order; for second-tier beams (二重梁) repeat 8–9. |
+| 10 | Purlins | 母屋 *moya* | Seated on struts from the eaves upward on both slopes. |
+| 11 | Ridge beam | 棟木 *munagi* | The last principal member: "the ridge is up" (上棟). |
+| 12 | Plumb and brace | 建入れ直し・仮筋交い | Final plumbing of the whole frame; braces fixed (§11.4). |
+| 13 | Rafters | 垂木 *taruki* | Usually the same day or the next; → Ch. 11. |
+| 14 | Roof boarding, underlay | 野地板・ルーフィング | As soon as possible (§14.1). |
+
+**Why this order:**
+- **Posts before beams.** Most beam joints (*arikake*, *koshikake*, *watari-ago*) are drop-in joints from above. The post or supporting member must already stand.
+- **Tōshibashira before *kudabashira*.** They are the only continuous vertical references, and joints with *dōsashi* need the *tōshibashira* stood and spreadable.
+- **Floor girders before upper posts.** Upper posts stand on the girders.
+- **Plates before roof beams** (*kyōro-gumi*). Beams sit on plates. In *orioki-gumi* the order of 7 and 8 is reversed: beams on posts, then plates on beam ends.
+- **Struts, purlins, ridge last.** They need the beams below them. The ridge closes the roof frame.
+- **Plumbing after the frame is closed.** Plumbing is only effective when the frame is a coherent structure; adjusting individual posts before the ring beams are in place is lost when the next member is driven.
+
+**R15-025** — **Should.** Do not insert the *dōsashi* of a whole side before the *kudabashira* under it are standing. Insert each *dōsashi* piece in splice order (lower piece first), seat it onto the *kudabashira* tenons, and drive its ends into the *tōshibashira*.
+
+**R15-026** — **Should.** Set the plates (*keta*) in splice order. The lower (*shitaki*) piece of each splice goes first and must be supported on posts at its ends before the upper (*uwaki*) piece is dropped in.
+
+---
+
+## 9. Variant orders
+
+### 9.1 *Ishibadate* with *ashigatame*
+
+In *ishibadate* there is no sill. The posts are loose on their stones until they are tied (→ Ch. 10 §4–6).
+
+1. **Scribing** (if not done before): each post is stood on its stone, scribed and cut (→ Ch. 10 §5). Often done bay by bay on raising day.
+2. **Stand posts in groups**, beginning with the *daikoku-bashira* and adjacent principal posts. Brace each temporarily to stakes or the scaffold in two directions.
+3. **Insert *ashigatame*** (and *jinuki*) between the posts of the group. Posts are spread to receive the *ashigatame* tenons (*sao*, *yatoi*) and drawn back with ropes or pulled with a *yaokoshi*. Pegs or *shachi* are driven. The first rigid "cell" is now formed at the base.
+4. **Insert *nuki*** (body *nuki*) and ***sashigamoi*** in the same cell, while the post tops are still free to be spread.
+5. Advance cell by cell around the grid, then to the *geya* (lean-to) posts.
+6. **Plates and beams**, then the roof, as in §8. In large minka the ***ushibari*** and log beams are placed with the crane (or historically with shear legs).
+7. **Plumb** the frame with *yaokoshi* and wedges. In *ishibadate*, posts cannot be "pulled" at the base because they are not fixed there. Plumbing is done by adjusting the frame at the top relative to the base ring.
+
+**R15-027** — **Must.** In *ishibadate*, the base ties (*ashigatame* or *jinuki*) of a group of posts are completed and pegged before any heavy beam is placed on those posts.
+*Why:* Loose posts on stones carrying a heavy beam can slide or topple during raising. The *ashigatame* ring is the base of the frame, and until it exists the frame has no base.
+
+**R15-028** — **Should.** During raising, keep each post's scribed base aligned with the marks on its stone at all times. Check alignment after every spreading operation.
+*Why:* Spreading a post (§10) lifts or rotates it on its stone. If it lands a few millimetres off its scribe marks, it bears unevenly.
+
+### 9.2 Temple hall (*wayō* type, schematic)
+
+→ Ch. 12 for bracket sets and Ch. 11 for roofs.
+
+1. Podium, stones (with *dabo*), setting out (§3–4).
+2. **Columns** (柱) stood, scribed or fitted to stones, braced. Heavy columns are raised with a crane (historically shear legs and capstans).
+3. ***Jinageshi* / *jifuku*** and lower ties; ***koshinuki*, *uchinori-nuki*, *hinuki*** threaded or inserted.
+4. ***Kashiranuki*** dropped into slots at column tops from above, splices over columns. Corner ends lapped.
+5. ***Daiwa*** (if any, *zenshūyō* and some others) laid on column tops and *kashiranuki*.
+6. **Bracket sets** (*kumimono*) built up layer by layer on each column (and between): *daito* on *dabo*; *hijiki* (bracket arms); *makito* (small blocks); *tōshi-hijiki* (continuous bracket arms) linking sets; *odaruki* (tail rafters, *hanegi* in later work) as the design requires. Each layer is completed around the building before the next.
+7. **Purlins / eaves beams** (*gangyō*, *dashigeta*) on the outermost brackets.
+8. **Beams** (*kōryō*, *ōbari*) in the *moya*, with *kaerumata* or struts; ceilings framed where required.
+9. **Rafters** (*jidaruki*, *hiendaruki* for double eaves), *kayaoi* (fascia) and *uragō*, with the eaves curve (*sori*) laid out from the *karigumi*.
+10. **Hidden roof** (*noyane* / *nogoya*): *hanegi* cantilevers, *nogoya* struts and beams, *nodaruki*. → Ch. 11.
+11. Roof boarding and roofing.
+
+**R15-029** — **Should.** In a temple, build each bracket layer all round the building (or a complete side) before starting the next layer, and check heights at every corner after each layer.
+*Why:* Height errors in bracket layers accumulate to visible deviations in the eaves line, and the corner bracket sets must be levelled against the side sets.
+
+### 9.3 Minka with a *sasu* roof (叉首組 *sasu-gumi*)
+
+→ Ch. 11 for *sasu* roof structure, Ch. 13 for minka types.
+
+1. Stones and *jōya* posts (*daikoku-bashira* first), *ashigatame*, *sashigamoi* (§9.1).
+2. Plates, beams and *ushibari* completing the ***jōya*** frame (the "wall-body" part is carpentry work, done by carpenters).
+3. ***Sasu*** (inclined principal rafters in pairs, forming an A-frame):
+   - Each pair is assembled on the ground or on the beams, with the tops crossed or joined.
+   - Raised and stood with their feet (叉首尻 *sasujiri*, sharpened or tenoned) in sockets or seats at the beam ends or on the plates.
+   - Raised with ropes and poles by many people (a village task under *yui*), or with a crane today.
+4. Ridge members (棟木 or *munagi*-like bundles) laid in the crotch of the *sasu*.
+5. Horizontal purlins (*yanaka*, 屋中; *moya*) tied across the *sasu*, then rafters (bamboo or thin poles, 垂木) and the lath for thatch (→ Ch. 11). Traditionally all tied with straw rope (縄 *nawa*) or *neso* (ねそ, twisted withies) rather than jointed.
+6. Thatching (by thatchers, often community work).
+7. ***Geya*** (lean-to) posts and roofs are added around the *jōya*.
+
+**R15-030** — **Should.** In *sasu* roofs, the feet of each *sasu* pair bear on the **ends of the beams**, where the beam's tension ties the pair, and not on the plate between beams. Confirm this with the *itazu* before raising.
+*Why:* The *sasu* is a two-pinned arch whose thrust is resisted by the beam as a tie. On a plate without a beam the thrust pushes the wall outward.
+
+---
+
+## 10. Joint type and direction of insertion
+
+Every joint has an **insertion direction** that determines when it can be assembled. The erection order is ultimately a sorting of the joints by insertion direction.
+
+| Insertion mode | Japanese (practice) | Typical joints (→ Ch. 07/08) | Sequence consequence |
+|---|---|---|---|
+| **Drop-in from above** | 落とし込み *otoshikomi* | *Koshikake-kama*, *koshikake-ari*, *ari-kake* (dovetail housing), *watari-ago*, *kabuto-ari*, post-top tenons into plates, *kashiranuki* slots | Supporting member must stand; inserted member placed later from above |
+| **Slide-in horizontally** | 差し込み *sashikomi* | Tenons (*hozo*) of *nuki*, *sashigamoi*, *ashigatame*, *dōsashi* into posts; *sao-shachi*; *yatoi-hozo* | Requires the posts to be spread or placed after the horizontal member |
+| **Spread-the-frame** | 開き *hiraki* / 柱を開く | Horizontal tenons at both ends between two standing posts (*sashigamoi*, *ashigatame*, *dōsashi* between *tōshibashira*) | One or both posts leaned outward, member inserted, posts pulled back; only possible if the post tops are still free |
+| **Threaded through** | 通す *tōsu* | Through-*nuki* | Posts stood; *nuki* driven through holes from one end of the line |
+| **Lateral slide along axis** | 追掛け (slide) | *Okkake-daisen* splice (the halves slide lengthwise to lock), *kanawa* (set, then key driven) | Space must be available to lay the pieces side by side and slide them |
+| **Lift / rotate-in** | 回し込み *mawashikomi* | Some *shachi* and cogged joints, *kawai-tsugi* variants | Needs clearance for the rotation |
+| **Key/pin after assembly** | 栓打ち | *Komisen*, *hanasen*, *shachi* | Pins and keys driven only after the member is seated and aligned |
+
+**R15-031** — **Must.** A member with horizontal tenons at **both** ends between two posts can only be inserted if at least one of the posts can be spread (its top free) or can be stood afterwards. Plan the order so that no such member is left until after the posts are locked by plates or beams.
+*Why:* Once the plate is on, the posts cannot be spread. The member can then only be inserted by cutting off a tenon, which destroys the joint.
+
+**R15-032** — **Should.** When spreading posts (柱を開く), spread by the **minimum** needed, pulling with ropes or levers at the post top while the base is held. Return the posts gradually and drive the member home with the *kakeya* as they come back.
+*Why:* Excessive spreading bends tenons already seated at the other end and can crack a post at a mortise.
+
+**R15-033** — **Should.** For *okkake-daisen* and *kanawa* splices, lay both pieces on their supports offset by the slide length, align, slide together, then drive the pins (*daisen*) or key (*sen*) (→ Ch. 07). Allow the space for the slide in the order of raising.
+
+---
+
+## 11. Driving, wedging, temporary bracing and plumbing
+
+### 11.1 Driving joints home
+
+- Strike close to the joint and in line with the insertion direction, through an *ategi* pad.
+- Alternate between ends of a member so that it goes down evenly.
+- Listen: a seated joint "rings" differently from one that is still travelling. Carpenters describe the change in sound as the signal to stop.
+- Pre-compressed tenons (木殺し *kigoroshi*, → Ch. 06) are driven into tight mortises and then swell back. Driving must be complete before the fibres recover (in practice the same day, before rain or humidity changes).
+
+**R15-034** — **Must.** Drive every joint fully home before pinning or wedging it. Check shoulder contact (肩 *kata*) visually and with a feeler (thin blade) where needed.
+*Why:* A pin through a joint that is not fully seated locks in the gap. With draw-bore pinning (→ Ch. 09) it may even split the tenon.
+
+**R15-035** — **Should.** Do not over-drive. Stop when shoulders meet.
+*Why:* Over-driving crushes the shoulder, splits the mortise cheeks, or pushes the opposite post out of line.
+
+### 11.2 Setting *nuki* and wedges
+
+1. With the posts of a wall line standing (and not yet locked at the top), the *nuki* is driven through the mortises from one end of the line, or inserted section by section with its splices falling inside posts (→ R10-052).
+2. Check that each splice lies within a post.
+3. Set the wedges (*kusabi*) loosely at first, from both faces of each post, so the *nuki* is centred.
+4. After plumbing (§11.4), drive the wedges firmly, symmetrically, from both sides.
+5. Cut the protruding wedge ends flush **after** the final tightening (often left long until *mashijime*, then cut; → §14.3).
+
+**R15-036** — **Should.** Wedge *nuki* only lightly until the frame is plumbed, then drive home.
+*Why:* Tight *nuki* hold the frame in whatever shape it has. If that shape is out of plumb, it will fight the *yaokoshi*.
+
+### 11.3 Temporary bracing (仮筋交い *kari-sujikai*)
+
+**R15-037** — **Must.** Brace every standing post in two directions until it is locked by permanent members. Brace every completed bay diagonally in both principal directions until the permanent lateral system (walls, braces, *nuki* wedged) is complete. Braces must be fixed to members that will be hidden, or fixed via pads and screws that leave no visible marks on show faces.
+*Why:* A partially erected frame has almost no lateral stiffness. Wind on a frame without braces can rack or topple it. Nail holes in *shiraki* (unfinished show timber) posts are permanent defects.
+
+**R15-038** — **Should.** Leave temporary braces in place until the roof is boarded and the permanent bracing or earth walls (at least the first coat, *arakabe*) are in place and have gained strength.
+
+### 11.4 Plumbing the frame — *tateire-naoshi* (建入れ直し)
+
+1. After the frame is closed (plates and beams, ideally roof frame in place), check each post in two directions with a *sagefuri*. Use a plumb board (下げ振りの定規) with a fixed offset at top and bottom, or a laser.
+2. Work from the reference corner. Pull the frame with a *yaokoshi* (wire or rope with turnbuckle or lever hoist) along the diagonals of the bays, or push with props (突っ張り *tsuppari*).
+3. Correct in both directions alternately. A correction in one direction changes the other.
+4. When plumb, fix the temporary braces, wedge the *nuki*, and drive the remaining pins.
+5. Re-check the building's diagonals at plate level.
+
+**R15-039** — **Must.** Plumb the frame before fixing permanent braces, wedging *nuki* tight, or starting the roof boarding. Do not rely on the roof boarding to pull a frame into plumb.
+*Why:* Once the roof is boarded, the frame becomes stiff in plan, and any error is locked in.
+
+**R15-040** — **Should.** Pull along diagonals of whole bays, never on a single post top.
+*Why:* A single post pulled out of plane bends at its joints. Diagonal pulling moves the whole bay as a parallelogram.
+
+---
+
+## 12. The day of raising: a timeline
+
+A representative timeline for a two-storey house of ~35 tsubo raised with a crane. Times vary.
+
+| Time | Activity |
+|---|---|
+| Day before | Sills laid and bolted; ground floor framing and temporary floor; members delivered, sorted and covered; scaffold erected; crane position agreed |
+| 07:30 | Meeting (朝礼 *chōrei*): order, roles, signals, safety check (KY 危険予知 *kiken yochi*) |
+| 08:00 | *Tōshibashira* stood and braced; ground-floor *kudabashira* |
+| 09:30 | Ground-floor *nuki*/*sashigamoi* (if any); *dōsashi*; second-floor beams |
+| 11:30 | Second-floor joists / temporary floor; second-floor posts start |
+| 12:00 | Lunch |
+| 13:00 | Second-floor posts; plates; roof beams |
+| 14:30 | Roof struts; purlins |
+| 15:30 | Ridge set (上棟); plumbing (*tateire-naoshi*) and temporary braces |
+| 16:30 | Rafters started (or next day); ridge-raising ceremony, often at the end of the day or on a chosen day |
+| 17:30 | Cover: tarpaulin or temporary roofing if boarding is not complete |
+| Day +1 to +3 | Rafters, roof boarding, underlay (*ruufingu*); permanent braces or hardware in conventional frames; *nuki* wedging |
+
+**R15-041** — **Should.** Plan the raising so that the ridge is set and the frame plumbed and braced before the end of the day, and so that the roof can be covered with boarding and underlay within 1–3 days. Watch the forecast; do not start the raising if rain is expected before the roof can be closed (§16).
+
+---
+
+## 13. The ridge-raising ceremony (上棟式 *jōtōshiki*)
+
+The ceremony, also called 棟上げ式 *muneageshiki* or 建前 *tatemae*, marks the completion of the frame. It prays for the safety of the house and thanks the craftsmen. Forms range from full Shintō rites at temples, shrines and large buildings to simple family gatherings for houses. Since the late 20th century many house owners hold a simplified version or none. Regional variation is great; the following is a representative composite.
+
+- **Ridge tablet (棟札 *munafuda*):** a wooden board inscribed with the date, the purpose of the building, the name of the owner (施主), the master carpenter (*tōryō*), other craftsmen, and prayers. It is fixed to the ridge beam or a roof strut, facing a propitious direction. Historic *munafuda* are major primary sources for dating buildings and identifying carpenters (→ Ch. 01, Ch. 16). For this reason:
+
+**R15-042** — **Should.** Prepare a *munafuda* recording at least the date, owner, designer, *tōryō* and principal craftsmen, and fix it in the roof space where it is protected from weather and will remain accessible. Photograph it.
+*Why:* It is the building's birth certificate for future repairers and historians. Many dated buildings in Japan are dated only by their *munafuda*.
+
+- **Offering staff (幣串 *heigushi*):** a wooden staff topped with paper streamers (御幣 *gohei*). In many regions it is decorated with fans (扇), a mask of Okame (おかめ, a symbol of good fortune), and cloth. It is set up at the ridge during the ceremony and later left in the roof space. Some regions also set a bow and arrows (破魔弓・破魔矢 *hamayumi*, *hamaya*) pointing toward the unlucky NE direction (鬼門 *kimon*) and SW (裏鬼門 *urakimon*).
+- **Purification of the four corners (四方固め / 四方清め *shihō-gatame*):** the *tōryō* and owner sprinkle sake, salt and rice on the corner posts.
+- **Ritual** (Shintō version): purification, invocation, offerings, prayers. In some traditions the *tōryō* performs symbolic acts, e.g. striking the ridge with a mallet in the 槌打ちの儀 *tsuchiuchi-no-gi*, calling out 千歳棟 *senzai-tō*, 万歳棟 *manzai-tō*. Details vary by shrine and region.
+- **Scattering of rice cakes (餅まき *mochimaki*, 餅投げ *mochinage*):** the owner and craftsmen throw small rice cakes (and sometimes coins wrapped in paper, 投げ銭) from the ridge or scaffold to neighbours gathered below. It shares the good fortune and wards off misfortune. It is still common in some rural areas (e.g. parts of western and central Japan) and has disappeared in cities.
+- **Gifts and feast:** the owner gives the craftsmen gifts (祝儀 *shūgi*, sake, meals). The feast (直会 *naorai*) follows; historically the *tobi* sang *kiyari* (木遣り) work songs.
+
+**R15-043** — **Should.** Hold the ceremony, if any, **after** the frame has been plumbed and made safe with temporary bracing, and never let guests climb unfinished scaffolding or frames. If *mochimaki* is held, the throwers stand on a guarded scaffold platform and the ground below is cleared of tools and materials.
+
+---
+
