@@ -410,11 +410,11 @@ In *ishibadate* there is no sill. The posts are loose on their stones until they
 3. ***Jinageshi* / *jifuku*** and lower ties; ***koshinuki*, *uchinori-nuki*, *hinuki*** threaded or inserted.
 4. ***Kashiranuki*** dropped into slots at column tops from above, splices over columns. Corner ends lapped.
 5. ***Daiwa*** (if any, *zenshūyō* and some others) laid on column tops and *kashiranuki*.
-6. **Bracket sets** (*kumimono*) built up layer by layer on each column (and between): *daito* on *dabo*; *hijiki* (bracket arms); *makito* (small blocks); *tōshi-hijiki* (continuous bracket arms) linking sets; *odaruki* (tail rafters, *hanegi* in later work) as the design requires. Each layer is completed around the building before the next.
-7. **Purlins / eaves beams** (*gangyō*, *dashigeta*) on the outermost brackets.
-8. **Beams** (*kōryō*, *ōbari*) in the *moya*, with *kaerumata* or struts; ceilings framed where required.
-9. **Rafters** (*jidaruki*, *hiendaruki* for double eaves), *kayaoi* (fascia) and *uragō*, with the eaves curve (*sori*) laid out from the *karigumi*.
-10. **Hidden roof** (*noyane* / *nogoya*): *hanegi* cantilevers, *nogoya* struts and beams, *nodaruki*. → Ch. 11.
+6. **Bracket sets** (*kumimono*) built up layer by layer on each column (and between): *daito* (大斗) on its *dabo*; bracket arms (肘木 *hijiki*); small bearing blocks (巻斗 *makito*); continuous bracket arms (通肘木 *tōshi-hijiki*) linking the sets; tail rafters (尾垂木 *odaruki*) as the design requires. Each layer is completed around the building before the next.
+7. **Eaves purlins** (丸桁 *gangyō*, 出桁 *dashigeta*) on the outermost brackets.
+8. **Beams** (虹梁 *kōryō*, 大梁 *ōbari*) in the *moya*, with frog-leg struts (蟇股 *kaerumata*) or other struts; ceilings framed where required.
+9. **Rafters** (地垂木 *jidaruki*; 飛檐垂木 *hiendaruki* for double eaves), fascia (茅負 *kayaoi*) and 裏甲 *uragō*, with the eaves curve (反り *sori*) laid out from the *karigumi*.
+10. **Hidden roof** (野屋根 *noyane* / 野小屋 *nogoya*): cantilever beams (桔木 *hanegi*), *nogoya* struts and beams, hidden rafters (野垂木 *nodaruki*). → Ch. 11.
 11. Roof boarding and roofing.
 
 **R15-029** — **Should.** In a temple, build each bracket layer all round the building (or a complete side) before starting the next layer, and check heights at every corner after each layer.
@@ -530,7 +530,7 @@ A representative timeline for a two-storey house of ~35 tsubo raised with a cran
 | 15:30 | Ridge set (上棟); plumbing (*tateire-naoshi*) and temporary braces |
 | 16:30 | Rafters started (or next day); ridge-raising ceremony, often at the end of the day or on a chosen day |
 | 17:30 | Cover: tarpaulin or temporary roofing if boarding is not complete |
-| Day +1 to +3 | Rafters, roof boarding, underlay (*ruufingu*); permanent braces or hardware in conventional frames; *nuki* wedging |
+| Day +1 to +3 | Rafters, roof boarding, underlay (ルーフィング, asphalt roofing felt); permanent braces or hardware in conventional frames; *nuki* wedging |
 
 **R15-041** — **Should.** Plan the raising so that the ridge is set and the frame plumbed and braced before the end of the day, and so that the roof can be covered with boarding and underlay within 1–3 days. Watch the forecast; do not start the raising if rain is expected before the roof can be closed (§16).
 
@@ -555,3 +555,157 @@ The ceremony, also called 棟上げ式 *muneageshiki* or 建前 *tatemae*, marks
 
 ---
 
+## 14. After raising
+
+### 14.1 Roof first: weather protection
+
+→ Ch. 11 for roof construction.
+
+**R15-044** — **Must.** Close the roof as fast as possible after raising: rafters, roof boarding (野地板 *nojiita*) and a waterproof underlay (modern asphalt roofing felt, ルーフィング; traditionally shingle underlay such as 土居葺き *doibuki* / とんとん葺き of thin wood shingles, or cedar bark 杉皮) should be in place within 1–3 days. Roofing tiles or metal follow.
+*Why:* Rain on an open frame wets end grain and joints, stains *shiraki* (§16), and makes joints swell unevenly. Wet timber enclosed later cannot dry.
+
+**R15-045** — **Should.** Until the roof is closed, protect exposed end grain (post tops, beam ends) and open joints with covers (sheet, tape or temporary caps). Cover the whole frame with tarpaulins if rain comes before boarding is complete.
+
+### 14.2 Wall work: *komai* and earth walls
+
+→ Ch. 14 for materials and methods. In outline and in sequence:
+
+| Step | Japanese | Content | Typical timing (representative) |
+|---|---|---|---|
+| 1 | 小舞掻き *komai-kaki* | Weaving the bamboo lath: vertical and horizontal *mawatashi-dake* (間渡し竹) let into posts and beams, thin split bamboo (*komai-dake*) tied with straw or palm rope (*shuro-nawa*) | After frame is plumbed and roofed |
+| 2 | 荒壁 *arakabe* | First coat of coarse clay with chopped straw (*wara-suta*), thrown and pressed through the lath from one side (表塗り *omote-nuri*) | Soon after *komai* |
+| 3 | 裏返し *uragaeshi* | Coating the back side, once the first side has set enough | Days to weeks after step 2 |
+| 4 | Drying | Drying of the *arakabe*; cracks open and timber shrinks | **Months**; ideally through a summer; 1–3 months minimum in favourable weather |
+| 5 | 貫伏せ・チリ回り *nukibuse*, *chiri-mawari* | Reinforcing over *nuki* (hemp cloth or scrim) and along post edges | After drying |
+| 6 | 斑直し *muranaoshi* | Levelling coat | — |
+| 7 | 中塗り *nakanuri* | Intermediate coat | After step 6 dries |
+| 8 | 上塗り *uwanuri* | Finish coat: *shikkui* lime, *juraku* earth, *ōtsu* polished, etc. | Last, after interior carpentry that could damage it |
+
+**R15-046** — **Must.** Allow each earth coat to dry sufficiently before the next. Do not apply earth plaster in freezing conditions (below ~5 °C is commonly avoided). Plan wall work around the season.
+*Why:* Wet earth that freezes loses cohesion and spalls. Coats over incompletely dried earth crack and delaminate. The *arakabe* drying period is also the frame's main drying period, which is why *mashijime* follows it.
+
+**R15-047** — **Should.** Schedule the *arakabe* so that it can dry through warm, dry weather (late spring to autumn in most of Japan). Ventilate the building during drying.
+
+### 14.3 Re-wedging and re-tightening — *mashijime* (増し締め)
+
+As the frame dries and the earth walls shrink, joints loosen:
+- *Nuki* wedges slacken.
+- Pins become loose in their holes.
+- Bolts (in modern frames) lose tension.
+
+**R15-048** — **Must.** Re-tighten every *nuki* wedge, *shachi* key and bolt after the first drying period, before the finishing coats and interior carpentry close them off. Common practice is before *nakanuri*, and/or around 6–12 months after raising. Record which joints were re-tightened.
+*Why:* The lateral stiffness of a *nuki* frame at small drift depends on tight wedging (→ R10-054). Once the finishing plaster is on, wedges can no longer be reached without damage.
+
+**R15-049** — **Should.** Leave wedge ends long until *mashijime* is complete, then cut them flush (or to a consistent projection where they remain visible, as in some temple and minka work).
+
+### 14.4 Interior finish carpentry — *zōsaku* (造作)
+
+*Zōsaku* covers the non-structural carpentry: sills and lintels of openings (*shikii*, *kamoi*), *nageshi*, ceilings (*tenjō*), *tokonoma*, shelves, floorboards, stairs and window frames, followed by the fittings (*tategu*: *shōji*, *fusuma*, doors; → Ch. 14).
+
+**R15-050** — **Should.** Begin *zōsaku* after the structural frame has been re-tightened and the building has dried for a period, and after the dusty and wet earth coats. Fit *shikii* and *kamoi* last among the structural-adjacent members, to the measured (not drawn) opening sizes.
+*Why:* *Tategu* must slide in openings whose geometry has stabilised. A lintel fitted to a frame that is still shrinking will bind the doors.
+
+### 14.5 Protecting *shiraki* surfaces — *yōjō* (養生)
+
+*Shiraki* (白木) — unfinished, planed natural wood — shows every stain, fingerprint and dent permanently. Hinoki and sugi are particularly sensitive.
+
+**R15-051** — **Must.** Protect planed show surfaces (posts, *tokobashira*, *nageshi*, ceilings) from the time they are planed until handover:
+- wrap in paper (養生紙) or light sheet;
+- corner guards on posts;
+- plywood covers on floors;
+- clean gloves for handling;
+- no tape directly on the wood surface (adhesive residue and discolouration).
+*Why:* Sweat, iron (from tools and nails in the rain), mortar and tannin leachate leave permanent marks. Cleaning by planing is not possible once the member is installed next to plaster.
+
+**R15-052** — **Should.** If *shiraki* is stained by rain (灰汁 *aku*, tannin and iron stains), treat it with an appropriate wood-cleaning agent (灰汁洗い *akuarai*) by a specialist, after the building is dry, and never by sanding across finished planed surfaces.
+
+---
+
+## 15. Checks and tolerances
+
+The following tolerances are **representative** of careful traditional practice and of commonly cited Japanese standards. They are not legal requirements. Contract documents and applicable specifications (e.g. JASS 11 wood work, and housing warranty standards) govern. As a reference point for the upper limit of acceptability: the technical reference standard for housing disputes (Ministry of Construction Notification No. 1653 of 2000, 住宅紛争処理の参考となるべき技術的基準) treats a wall or post inclination of **3/1000 or more** as indicating some possibility of a structural defect, and **6/1000 or more** as a high possibility. Good carpentry works far inside these limits.
+
+### 15.1 Setting out and foundations
+
+| Item | Method | Target (representative) |
+|---|---|---|
+| Grid bay spacing | Steel tape from *yarikata* marks | ±1–2 mm per bay; ±3 mm cumulative over building length |
+| Rectangularity | Diagonals (対角) of each rectangle | Difference ≤ 3–5 mm for a house footprint |
+| Stone top height (*ishibadate*) | Level from datum | ±2–3 mm (all stones in one datum) |
+| Stone centre position | Plumb bob from string lines | ±3–5 mm (post is scribed to the stone, but the stone must allow it) |
+| Footing top level (before sill) | Level | ±3 mm overall; ±2 mm with levelling compound |
+| Footing line | String line | ±3–5 mm |
+| Anchor bolt position | Tape from grid | ±5 mm (and never in a mortise/tongue: R15-011) |
+| Anchor bolt projection | Tape | As specified for nut + washer + sill + spacer |
+
+### 15.2 Sill and frame
+
+| Item | Method | Target (representative) |
+|---|---|---|
+| Sill level | Level | ±2–3 mm overall |
+| Sill line | String | ±2 mm |
+| Sill diagonals | Tape | ≤ 3–5 mm difference |
+| Post plumb | *Sagefuri* / laser, 2 directions | ≤ 1/1000 of height as a working target (≈ 3 mm per storey); never approaching 3/1000 |
+| Post position at top | Tape between posts at plate level | ±2 mm per bay |
+| Plate level | Level along the plates | ±3 mm overall |
+| Beam level / camber | Level, string | Camber up as designed; no sag |
+| Diagonals at plate level | Tape | ≤ 5 mm difference for a house |
+| Joint seating | Visual, feeler | Shoulders in contact; no visible gap in show joints |
+| *Nuki* splices | Visual | All inside posts |
+| Wedges | Visual, hammer test | Driven symmetrically from both sides |
+
+### 15.3 *Bantsuke* verification
+
+**R15-053** — **Must.** Before each member is raised, check its *bantsuke* against its target position on the *itazu*. After raising, a second person checks the *bantsuke* of all principal members before the roof is boarded.
+*Why:* Two members of identical section but different joints (e.g. mirrored splices) are easily exchanged. Discovering a swapped beam after boarding means stripping the roof.
+
+### 15.4 Stage checklists
+
+**Before raising**
+- [ ] *Itazu*, *kanabakari*, *shakuzue* agree (R15-002)
+- [ ] Foundation / stones within tolerance (§15.1); stones marked
+- [ ] Sills laid, bolted, level, square (§15.2)
+- [ ] All members delivered, *bantsuke* checked, sorted in order (R15-018)
+- [ ] Pins, wedges, keys, hardware prepared and counted
+- [ ] Scaffold clear of frame and inspected (R15-017)
+- [ ] Crane position, capacity and ground bearing checked; weather forecast checked (§16)
+- [ ] Crew briefing held (R15-019)
+
+**During raising**
+- [ ] Order followed as planned (R15-023)
+- [ ] Each joint fully seated before pinning (R15-034)
+- [ ] Temporary braces in two directions on every post (R15-037)
+- [ ] *Ategi* used for all driving (R15-020)
+- [ ] *Nuki* splices inside posts; wedges light (R15-036)
+
+**Before roof boarding**
+- [ ] Frame plumbed in both directions (R15-039)
+- [ ] Diagonals checked at plate level
+- [ ] All pins driven; *nuki* wedged; hardware (if any) fixed
+- [ ] *Bantsuke* second check done (R15-053)
+- [ ] *Munafuda* fixed (R15-042)
+
+**Before finishes**
+- [ ] *Mashijime* done and recorded (R15-048)
+- [ ] Earth walls dried to schedule (R15-046)
+- [ ] *Shiraki* protection intact (R15-051)
+
+---
+
+## 16. Safety and weather rules
+
+**R15-054** — **Must.** Do not raise *shiraki* (unfinished) frames in rain. Postpone the raising if significant rain is forecast for the raising day or before the roof can be closed.
+*Why:* Rain stains planed hinoki and sugi (tannin and dirt streaks, iron stains from tools), swells joints so they cannot be driven, and makes surfaces and scaffolding slippery.
+
+**R15-055** — **Must.** Stop crane lifting and work on the frame in strong wind. Japanese crane regulations require work to be stopped when strong wind makes it dangerous. Administrative guidance commonly takes a 10-minute mean wind speed of 10 m/s or more as "strong wind". Check the current regulations and the crane's own limits.
+*Why:* Long members such as posts and beams act as sails. A swinging beam can strike a person or knock a braced frame down.
+
+**R15-056** — **Must.** Follow current occupational safety rules for work at height (in Japan: work platforms and fall-arrest equipment for work at 2 m and above, full-body harnesses as the general rule since the 2019 revision; check current regulations). Nobody stands under a suspended load. Only the up-frame crew is on the frame during lifts.
+
+**R15-057** — **Should.** Protect all end grain of members stored on site from sun and rain (cover, end-sealer or paper), and store members on bearers in a ventilated stack.
+*Why:* End grain dries fastest and checks (木口割れ *koguchi-ware*); wet end grain stains and swells.
+
+**R15-058** — **Should.** Avoid raising on days of extreme heat or dryness with *kigoroshi* joints and freshly planed shiraki. Mist or cover pre-compressed tenons as needed so that they are driven before they recover.
+
+**R15-059** — **Should.** Keep a written record (photos and notes) of the raising: order, deviations, joints adjusted on site, weather, *mashijime* dates. File it with the *itazu* and the *munafuda* data.
+*Why:* Repair carpenters (→ Ch. 16) need to know what was done and what was changed on site. The *itazu* shows the plan; the record shows what was built.
