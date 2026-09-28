@@ -32,7 +32,7 @@ The distinction is by **axis**, not by shape: a dovetail used to extend a sill i
 ### 1.2 Related families
 
 - **Crossing joint** (組手, *kumite*) — two members crossing each other and interlocking, most often each halved (相欠き組手) so that their faces are flush, e.g. crossing sills, crossing tie-beams, lattice (組子, *kumiko*) in shōji. Kumite is sometimes treated as a subset of shiguchi (members at an angle) but differs in that both members *continue through* the intersection. → Ch. 08, → Ch. 14 (kumiko).
-- **Edge joint** (矧ぎ, *hagi*) — joining boards **edge to edge** to make a wider panel: plain butted (芋矧ぎ, *imo-hagi*), tongue-and-groove (本実矧ぎ, *hon-zane-hagi*), loose tongue (雇い実矧ぎ, *yatoi-zane-hagi*), rebated (相決り, *aijakuri*), splined, or keyed with butterfly keys (千切り, *chigiri*) and dowels (太枘, *dabo*). → Ch. 14 for floors, ceilings and doors; → Ch. 07 §6 for chigiri.
+- **Edge joint** (矧ぎ, *hagi*) — joining boards **edge to edge** to make a wider panel: plain butted (芋矧ぎ, *imo-hagi*), tongue-and-groove (本実矧ぎ, *hon-zane-hagi*), loose tongue (雇い実矧ぎ, *yatoi-zane-hagi*), rebated (相決り, *aijakuri*), splined, or keyed with butterfly keys (千切り, *chigiri*) and dowels (太枘, *dabo*). → Ch. 14 for floors, ceilings and doors; → Ch. 07 §5.5 for chigiri.
 - **Mitre** (留め, *tome*) — a joint in which the meeting line bisects the angle so that neither end grain is seen; used for finish members (長押 *nageshi*, 回り縁 *mawaribuchi*, 框 *kamachi*, 額縁 frames). A mitre is almost always combined with a hidden structural element (tenon, spline, dovetail, 車知 *shachi* key) because the mitre surface itself is end grain meeting end grain at an angle and has little strength. → Ch. 08, → Ch. 14.
 - **Sashimono** — the word has two meanings that must not be confused:
   - 差物 (*sashimono*) in framing: a deep horizontal member **inserted** (差す, *sasu*) between posts with long tenons and pins, as in the large 差鴨居 (*sashigamoi*) and 差物 of minka and machiya, which provide moment resistance to the frame (→ Ch. 10, → Ch. 13).
@@ -114,7 +114,7 @@ A third, very practical classification is **how the two pieces come together**. 
 | Dropped from above (vertical insertion) | 落とし込み *otoshikomi* | koshikake-ari, koshikake-kama, ari-kake, watari-ago |
 | Slid in from the side (perpendicular to axis) | 横入れ / 横から差す | kanawa, shiribasami, hako-mechigai-kama (some forms) |
 | Slid along the axis | 追掛け *okkake*, 差し込み | okkake-daisen (final slide), sao-tsugi, tenons |
-| Inserted diagonally | 斜め入れ | shihō-ari, shihō-kama netsugi (→ Ch. 07 §6) |
+| Inserted diagonally | 斜め入れ | shihō-ari, shihō-kama netsugi (→ Ch. 07 §6.9) |
 | Assembled then locked by a separate key | 栓・車知・楔締め | sao-shachi, kanawa (sen), nuki wedging |
 
 ---
@@ -372,7 +372,7 @@ The traditional and modern Japanese rule: **splices in horizontal members are pl
 
 **R06-029** — **Should.** In a member spliced more than once (e.g. a long plate of three pieces), keep the pieces as long as possible and place the splices so that the **shortest piece still spans at least two supports**. *Why:* a short piece between two hinges cannot stand by itself and turns the plate into a mechanism.
 
-**R06-030** — **Should.** Place splices in the ridge (棟木) and purlins (母屋) near struts (束) on the cantilever side, staggered between adjacent purlins; in rafters (垂木) place splices only over a purlin or plate, staggered between neighbouring rafters (→ Ch. 07 §6, Ch. 11).
+**R06-030** — **Should.** Place splices in the ridge (棟木) and purlins (母屋) near struts (束) on the cantilever side, staggered between adjacent purlins; in rafters (垂木) place splices only over a purlin or plate, staggered between neighbouring rafters (→ Ch. 07 §6.6–6.7, Ch. 11).
 
 ### 6.3 Cross-section loss (断面欠損, *danmen kesson*)
 
@@ -397,7 +397,7 @@ After major earthquakes in Japan (notably 1995), damage surveys reported breakag
 
 **R06-033** — **Should.** When staggering heights, offset by **at least the depth of a housing plus a margin**, and preferably so that the tenons of orthogonal members are separated vertically by ≥ ≈ 1 sun (30 mm) of solid wood; better still, let one member pass through (e.g. a through-tenon or a nuki) and hang the others on it with a seat. *Why:* partial overlap still removes most of the section.
 
-**R06-034** — **Should.** Do not combine a splice and a connection in the same short length of a member unless the joint is specifically designed for it (e.g. the plate splice combined with a beam crossing in a *kyōro-gumi* corner, → Ch. 07 §6, Ch. 08). *Why:* the combined loss of section can exceed that of either alone.
+**R06-034** — **Should.** Do not combine a splice and a connection in the same short length of a member unless the joint is specifically designed for it (e.g. the plate splice combined with a beam crossing in a *kyōro-gumi* plate, → Ch. 07 §6.5, Ch. 08). *Why:* the combined loss of section can exceed that of either alone.
 
 ### 6.4 Joints and openings, eaves, and exposure
 

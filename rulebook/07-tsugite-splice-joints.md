@@ -570,3 +570,426 @@ This section summarizes how pins and keys are used **in splices**; their general
 **R07-044** — **Should.** Where a splice is visible, set its pins or keys consistently (same face, same line, same projection) across the building (→ R06-056).
 
 ---
+
+## 5. Tenon-and-key splices
+
+These splices use a long, slender tongue (竿, *sao*) on one piece — or a separate loose tongue (雇い, *yatoi*) in both — inserted into a slot and locked by pins (込み栓) or tapered keys (車知, *shachi*). Their great practical virtue is that the tongue can be **slid in horizontally along the axis**, so they can pass **through a post** or close **between two members already fixed**, and the shachi can **draw the shoulders tight** and be re-driven later.
+
+### 5.1 Rod-tenon splice — 竿継ぎ (*sao-tsugi*)
+
+- **Class:** tsugite, tenon family.
+- **Typical use:** girders (胴差) meeting from opposite sides of a through-post (通し柱), where the sao of one passes through the post into the other; plates and sills where one piece must be slid in horizontally; secondary members; the basis of sao-shachi (§5.2).
+- **Load behaviour:** shear (via the sao in bending and the female's slot — weak unless seated or supported); tension via pins through the sao; bending small. Pinned sao splices are relatively flexible.
+- **Proportions:** sao thickness ≈ 1/4–1/3 W (27–36 mm in 105–120); sao depth ≈ D less any housings (often the full depth, or D minus ≈ 10–15 mm); sao length ≈ 1.5–2.5 D; komisen 12–18 mm, usually 2, placed ≥ ≈ 2.5–3 pin sizes from the sao tip (→ R06-007).
+- **Orientation rules:** the sao is on the member that moves (the one inserted last); the slot is in the member fixed first; where passing through a post, the post mortise is sized to the sao alone and the girder ends are housed (大入れ) into the post faces to carry shear (→ Ch. 08).
+- **Marking / cutting:** centre lines; sao cheeks sawn and pared; slot chopped (often through, open at the far end for through-post use); pin holes bored after trial fit, with draw offset (→ Ch. 09).
+- **Assembly:** female/fixed piece in place; male slid in along the axis; pins driven.
+- **Rules:**
+  - **R07-045** — **Should.** A plain sao splice is locked with at least two pins or with shachi; a single pin permits rotation. *Why:* one pin is a hinge in the plane of the sao.
+- **Common errors:** sao too thin (breaks in bending at the shoulder); pins too close to the tip; slot cut with insufficient cheeks.
+- **Variants:** sao-shachi (§5.2), koshikake-sao-shachi (§5.3), yatoi-sao (§5.4).
+
+### 5.2 Rod-tenon splice with shachi keys — 竿車知継ぎ (*sao-shachi-tsugi*)
+
+- **Class:** tsugite, tenon family with tapered keys.
+- **Typical use:** sills (土台), especially the **last piece** closing a loop, or sill pieces that must be slid in between posts or other fixed sills; girders (胴差) joined **through a through-post**; plates (桁) in positions where dropping in is impossible; any splice where the shoulder (胴付き) must be drawn tight and kept tight, since the shachi can be re-driven after drying.
+- **Load behaviour:** good tension (the shachi draw the sao into the female and bear in the slots); moderate shear (needs a seat or support for heavy loads); limited bending. The drawing action of the shachi keeps the shoulders closed.
+- **Proportions (representative):**
+  - sao thickness ≈ 1/4–1/3 W (27–33 mm in 105; 30–40 mm in 120; 40–50 mm in 150);
+  - sao length ≈ 1.5–2 D (150–210 / 180–240 / 225–300 mm);
+  - shachi: hardwood (kashi), section ≈ 10–12 × 30–36 mm (105), 12–15 × 36–45 mm (120), 15–18 × 45–55 mm (150); taper ≈ 1:10–1:15 along the length; usually one **pair** per joint driven from opposite faces (top and bottom, or the two sides), a second pair in long sao;
+  - draw: the shachi slot in the sao is offset ≈ 1–2 mm toward the male's shoulder relative to the slot in the female, so that driving the shachi pulls the sao in.
+- **Geometry (description):** the male carries a sao; the female has a matching slot. Rectangular slots for the shachi are cut **across** the joint, partly in the female's cheeks and partly through the sao; a tapered shachi driven into each slot bears on the far face of the sao-slot and the near face of the female-slot and, because of the offset, draws the two members together.
+- **Orientation rules:** the male is the piece slid in last; the female is fixed first. For sills: female continuous over the foundation anchor point; the shachi pair driven from the top and bottom faces (bottom driven before the sill is set, or from the sides where the bottom is inaccessible). For girders through a post: the sao of one girder passes through the post and into the other girder (which is the female), shachi on the far side of the post.
+- **Marking:** centre lines; sao outline; shachi slot positions on both pieces (with offset for draw); assembly marks.
+- **Cutting sequence:** 1. saw and pare the sao; 2. chop the slot in the female; 3. chop the shachi slots through the female cheeks; 4. trial-fit the sao; 5. mark the shachi slot on the sao through the female's slots, then shift the mark by the draw offset; 6. chop the sao's shachi slot; 7. make shachi to fit, with taper.
+- **Assembly:** slide the sao home; drive the shachi pair alternately (a little each) so that the joint draws evenly; stop when the shoulder is closed; trim.
+- **Rules:**
+  - **R07-046** — **Must.** Drive paired shachi **alternately and equally** from opposite faces. *Why:* driving one fully before the other twists the sao and splits the female cheek.
+  - **R07-047** — **Should.** Use sao-shachi (or yatoi-sao) as the splice of the **last member** in a closed loop of sills or plates, where a dropped-in kama is impossible (→ R06-038). *Why:* the sao can be slid in horizontally and locked afterwards.
+  - **R07-048** — **Should.** Where shachi will be accessible later, leave them slightly proud (or mark them) so that they can be re-driven after the frame has dried. *Why:* the joint's great advantage is that it can be re-tightened.
+- **Common errors:** draw offset too large (shachi cannot be driven; female splits) or reversed (the joint is pushed apart); shachi of weak or short-grained wood; slots too close to the female's end.
+- **Variants:** koshikake-sao-shachi (§5.3); 雇い竿車知 (§5.4); 竿車知 netsugi.
+
+```
+ PLAN, sao-shachi (schematic)
+   male                                female
+ ------------------+=================+-------------------
+                   |     sao         |
+                   |======[S]========|    [S] = shachi slot (driven vertically,
+                   |                 |          pairs from top & bottom);
+ ------------------+=================+-------------------   slot in sao offset 1-2 mm
+                   ^ shoulder (胴付き) drawn tight           toward the male's shoulder
+```
+
+### 5.3 Seated rod-tenon splice with shachi — 腰掛け竿車知継ぎ (*koshikake-sao-shachi-tsugi*)
+
+- **Class:** tsugite, tenon family with seat and tapered keys.
+- **Typical use:** plates, girders and sills near a post where shear must be carried by a seat and tension by keys; an upgrade of koshikake-kama with re-tightenable draw; also where the male is dropped onto the seat with the sao entering an open-topped slot.
+- **Load behaviour:** seat carries shear (as in koshikake-kama); sao and shachi carry tension (generally better and more reliably tight than a kama); limited bending.
+- **Proportions:** seat as koshikake-kama (s ≈ 15–30 mm, seat height ≈ 1/3–1/2 D); sao and shachi as §5.2.
+- **Orientation rules:** female over the support, ≈ 150 mm cantilever (→ R07-005); male on the seat; shachi driven from the faces accessible after erection (commonly from the sides or top). **Uncertainty:** workshops differ as to whether the sao is dropped into an open-topped slot (with shachi from the sides) or slid in (with shachi from top/bottom); both forms are described.
+- **Rules:**
+  - **R07-049** — **Should.** Where a seated splice must carry tension reliably and remain tight through drying, prefer koshikake-sao-shachi to koshikake-kama. *Why:* the shachi draw and can be re-driven; the kama cannot.
+- **Common errors:** as for §5.2; in addition, seat not bearing.
+- **Variants:** koshikake-kama with shachi; 目違い付き腰掛け竿車知.
+
+### 5.4 Loose-tongue splices — 雇い竿 (*yatoi-sao*) and 雇い実 (*yatoi-zane*)
+
+- **Class:** tsugite, loose-tenon family (雇い = "hired", a separate piece).
+- **Typical use:**
+  - **yatoi-sao** (雇い竿, a separate rod-tenon let into both members) with shachi (雇い竿車知) or pins (雇いほぞ胴栓止め): girders on either side of a through-post; sills between fixed posts; **repair** of plates and beams in place; any junction where **both members are already fixed** and neither can move;
+  - **yatoi-zane** (雇い実, loose spline): butt splices and edge joints in boards, finish members (敷居, 鴨居, 長押), ceiling boards; alignment rather than strength (→ Ch. 14).
+- **Load behaviour:** yatoi-sao: tension through the keys at both ends, shear through the sao and the housings; every yatoi joint is effectively **two** joints in series, and its capacity is that of the weaker end. Yatoi-zane: alignment and small shear; no tension.
+- **Proportions:** yatoi-sao section ≈ as a sao (≈ 1/4–1/3 W thick, depth ≈ D less housings); length ≈ 2 × (1.2–2 D); hardwood or the same species of good quality; shachi or pins at both ends as §5.2. Yatoi-zane: thickness ≈ 1/4–1/3 of board thickness, width ≈ 2–3 × thickness, grain along the spline's length (or cross-grain plywood-like spline in modern work).
+- **Orientation rules:** slots are cut in both members; the loose tongue is inserted into one, the other member brought against it (or, where both are fixed, the tongue is slid in from a side opening and then keyed). In through-post girders, the yatoi-sao passes through the post.
+- **Rules:**
+  - **R07-050** — **Should.** Use yatoi-sao where both members are already fixed (repair, last member, through-post) and a strong splice is needed; lock both ends with shachi or at least two pins each. *Why:* the loose tongue avoids moving either member.
+  - **R07-051** — **Must.** The yatoi-sao is of timber at least as strong and as dry as the members, straight-grained, with no knots in the sao's length between the keys. *Why:* the whole tension passes through the yatoi.
+- **Common errors:** one end keyed, the other merely glued or friction-fit; yatoi of weak species; slot too deep for the member (excessive section loss).
+- **Variants:** 雇い竿車知, 雇いほぞ, 雇い実矧ぎ, 雇い目違い.
+
+### 5.5 Butterfly key — 千切り (*chigiri*)
+
+- **Class:** key (inlaid), used as a splice key across butt joints and as an edge key.
+- **Typical use:** holding together the butted ends or edges of **thick boards** (tokonoma boards 床板 *tokoita*, 地板 *jiita*, thick shelves, 式台 *shikidai*, stair treads, counter and table tops, 一枚板 slabs), arresting the growth of end checks in slabs and thick members; in some traditional work across the butt of two members lying on a continuous support. Not a primary structural splice for framing members.
+- **Load behaviour:** holds the two parts together against small tension across the joint and keeps faces flush; it relies on the flared ends bearing on the sockets. Capacity limited by the key's neck and by shear of the socket ends.
+- **Proportions (representative):** hardwood (keyaki, kashi, shitan, ebony-like woods, or a contrasting species); length ≈ 3–5 × waist width; end width ≈ 2–2.5 × waist; flare per side ≈ 1:4–1:6; depth ≈ 1/3–1/2 of board thickness (through keys are possible in thin boards but weaken them); grain of the key runs along its length, i.e. **across** the joint.
+- **Orientation rules:** set on the concealed face where strength is the aim, on the visible face as a deliberate ornament in sukiya and craft work; centred on the joint line; keys spaced along the joint at ≈ 150–300 mm.
+- **Cutting sequence:** 1. make the key and plane its sides with a very slight taper (narrower at the bottom); 2. place the key on the joint and knife its outline; 3. saw/chop the socket to the knife line to the key's depth; 4. glue or dry-fit and drive; 5. plane flush.
+- **Rules:**
+  - **R07-052** — **Must.** The grain of a chigiri runs along the key (across the joint). *Why:* a key with grain parallel to the joint breaks at the waist.
+  - **R07-053** — **Should.** Do not rely on chigiri to hold boards whose shrinkage across the grain is restrained by other means; allow the boards to move (chigiri across an **end** butt of boards are unaffected by width shrinkage; chigiri across an **edge** joint resist movement and can split the boards if too many or too long). *Why:* the key's length is stable, the boards' width is not.
+- **Common errors:** key too deep (weakens the board); grain orientation wrong; sockets too loose (key only glued).
+- **Variants:** 契り (alternative spelling), 蟻型の千切り, double chigiri.
+
+---
+
+## 6. Splices by member and special-purpose splices
+
+### 6.1 Nuki splices — 貫の継手 (*nuki no tsugite*)
+
+- **Class:** tsugite in a penetrating tie; made **inside a post**.
+- **Typical use:** structural nuki (足固め貫 *ashigatame-nuki*, 胴貫 *dō-nuki*, 内法貫 *uchinori-nuki*, 頭貫 *kashira-nuki* in temples) and wall nuki (壁貫 for komai walls, → Ch. 14) where a single nuki cannot run the full length of the wall.
+- **Load behaviour:** in the lateral frame, nuki act by embedment in the post mortises; the splice must pass tension (and some bending) across the post so that the nuki line continues to tie the posts together. The splice is located inside the post because there it is confined, supported and wedged.
+- **Forms:**
+  - **略鎌 (*ryaku-kama*) inside the post**: the two nuki ends meet within the post's through-mortise, each cut to a half-lap (the lap plane usually horizontal, across the nuki's height) with a small hook at the tip; the hooks engage, and a wedge is driven into the mortise to clamp the lap. This is the classic structural form.
+  - **相欠き (*aikaki*) with pins or wedge**: a plain half-lap inside the post, locked by wedges and sometimes a pin through post and nuki.
+  - **Butt inside the post with wedges (突付け + 楔締め)**: for thin wall nuki (小貫), simply butted in the post and wedged or nailed.
+  - **竿・車知 forms**: in some heavy temple and minka work, the nuki ends are joined with a sao and shachi or with a kama inside the post.
+- **Proportions:** structural nuki (house scale) ≈ 1 sun thick × 3.5–4 sun high (≈ 27–30 × 105–120 mm); temple nuki much larger; lap length = the post width (the whole splice lies inside the post) — the hook height ≈ 1/6–1/4 of nuki height; wedges (kusabi) of hardwood in pairs (相楔 *ai-kusabi*, opposing wedges) driven above (or below) the nuki from both faces of the post (→ Ch. 09).
+- **Orientation rules:** the post mortise is cut high enough for nuki plus wedge; the nuki is threaded through posts in the erection sequence (→ Ch. 15); the wedges are driven from both sides of the post so that they meet; the hook faces are oriented so that tension brings them into bearing.
+- **Rules:**
+  - **R07-054** — **Must.** Nuki are spliced only **inside a post** (or, in heavy work, over a support designed for it), never between posts. *Why:* the confinement of the mortise and the wedges is what makes the lap work; a free nuki lap in a bay has no capacity.
+  - **R07-055** — **Must.** Stagger nuki splices so that splices in vertically adjacent nuki tiers fall in **different posts**, and do not splice nuki at a corner post or at a post that also receives a girder splice. *Why:* each post can tolerate only limited cross-section loss (→ R06-031) and a line of splices becomes a line of weakness.
+  - **R07-056** — **Should.** Drive nuki wedges from **both faces** of the post, meeting inside, and re-drive them after the frame has dried (増し締め). *Why:* single-sided wedging pushes the nuki off-centre; drying loosens wedges (→ Ch. 06 §4.4).
+- **Common errors:** splice falling half outside the post; wedges too steep (spring out); mortise too high (nuki slack even after wedging); all nuki spliced in the same post line.
+- **Variants:** as listed under Forms.
+
+```
+ ELEVATION through a post, nuki spliced inside (schematic)
+               |<-- post -->|
+     nuki A    |  ____      |    nuki B
+ ==============|_|    |_____|==============
+ ==============|______|  |__|==============    hooked half-lap (略鎌) inside the post
+               |  wedge  >< |   <- opposing wedges driven from both faces
+               |            |
+```
+
+### 6.2 Miyajima splice — 宮島継ぎ (*miyajima-tsugi*)
+
+- **Class:** tsugite, finish (化粧) splice.
+- **Typical use:** members visible on **three faces**, such as ceiling battens (竿縁 *saobuchi*) and similar exposed thin members; the name is said to come from its frequent use in buildings at Miyajima (Itsukushima).
+- **Load behaviour:** light; alignment and a small amount of compression/tension; the member is supported and nailed or hung.
+- **Description:** the splice is arranged so that the three visible faces (the two sides and the underside) show a clean, simple joint line, and the interlocking part is on the concealed top face. **Uncertainty:** published descriptions of the exact geometry are scarce and vary; practitioners should follow a workshop's drawing. This entry records use and intent rather than a definitive shape.
+- **Rules:**
+  - **R07-057** — **Should.** In finish members visible on three faces (竿縁, 回り縁 lengths), use a splice whose mechanism is confined to the concealed face (miyajima, isuka, hidden mechigai) and locate it at a hanger or support. *Why:* the joint must neither show nor sag.
+
+### 6.3 Crossbill splice — いすか継ぎ (*isuka-tsugi*)
+
+- **Class:** tsugite, finish (化粧) scarf.
+- **Typical use:** ceiling battens (竿縁), in compression; other thin finish members where a neat appearance is required; the four-sided form 四方いすか継ぎ (*shihō-isuka-tsugi*) shows the characteristic inclined lines on all faces.
+- **Load behaviour:** mainly compression and alignment; little tension.
+- **Description:** named after the crossbill (鶍, *isuka*), whose mandibles cross; the two ends are cut obliquely so that they bite into each other like crossed beaks, giving a neat slanted line on the visible faces instead of a butt. It is regarded as a "finish splice" (化粧継手) chosen where a clean appearance matters. It is increasingly rare because long members are used instead, avoiding the splice altogether.
+- **Orientation rules:** place over or immediately beside a hanger/support; orient the slanted lines consistently across a ceiling.
+- **Rules:**
+  - **R07-058** — **Should.** In fine ceilings, avoid splices in saobuchi altogether by using full-length members where possible; where a splice is unavoidable, use isuka or miyajima at a support and align splices in adjacent battens deliberately (either on one line or regularly staggered, per design). *Why:* splices in visible battens are read as part of the ceiling's composition (→ R06-055).
+
+### 6.4 Sills — 土台 (*dodai*) splice practice
+
+Summary of rules for sill splices (sill framing overall: → Ch. 10; anchor bolts and code: → Ch. 17).
+
+| Situation | Splice | Notes |
+|---|---|---|
+| Ordinary sill run (outer walls) | 腰掛け鎌継ぎ | standard; ≈ 150 mm from post; anchor bolt near male end |
+| Interior sill lines, short runs | 腰掛け蟻継ぎ or 腰掛け鎌継ぎ | ari acceptable where tension is small |
+| Last piece closing a loop / between fixed posts | 竿車知継ぎ, 腰掛け竿車知, 雇い竿 | slid in horizontally, locked by shachi |
+| High-quality hand-cut work / continuity wanted | 追掛け大栓継ぎ, 金輪継ぎ | need sliding or lateral assembly room |
+| Repair of a sill length in place | 金輪継ぎ, 雇い竿車知, 台持ち (if supported) | lateral assembly |
+
+- **R07-059** — **Must.** Sill splices are never under a post, never under a door or opening where the sill is not continuously supported, never directly over a foundation vent opening (床下換気口) or other gap in the bearing, and never at a hold-down or anchor position unless the anchor is on the male end as intended. *Why:* the sill must be continuously supported at the splice and not concentrated-loaded there.
+- **R07-060** — **Should.** Stagger sill splices on opposite and parallel walls, and keep sill pieces as long as available (commonly 4 m). *Why:* fewer, staggered splices keep the sill ring continuous.
+- **R07-061** — **Should.** Treat the end grain and the joint surfaces of sill splices with preservative where the species is not naturally durable, and make sill splices of durable species (hinoki, hiba, kuri) where possible. *Why:* sill joints are the most decay-prone joints in the building (→ Ch. 03, Ch. 16).
+
+### 6.5 Plates and girders — 桁・胴差 (*keta, dōsashi*), with kyōro-gumi and orioki-gumi practice
+
+- **Kyōro-gumi** (京呂組): roof beams (小屋梁) rest **on top of** the wall plate, which is carried by posts. The plate is spliced ≈ 150 mm from a post, female over the post (post tenon in the female), male on the seat. The roof beams cross the plate with 渡り腮 or 兜蟻掛け (→ Ch. 08).
+- **Orioki-gumi** (折置組): roof beams rest **directly on the posts** and the plate rests on the beam ends. The plate is then supported at every beam end, and its splices are commonly placed **over a beam end/post**, using a daimochi- or kama-type splice on the support, or near it with a seated splice. Practice varies regionally.
+- **Girders (胴差)** at the second-floor level, especially at through-posts: either spliced ≈ 150 mm from a post (koshikake-kama with strap, or okkake-daisen), or joined **through** the through-post with sao-shachi or yatoi-sao, with the girder ends housed into the post faces.
+
+- **R07-062** — **Must.** In kyōro-gumi, a roof beam must not cross the plate over any part of the plate's splice; keep crossings on the solid female or over the post. *Why:* the splice's reduced section cannot also receive the notch of the crossing.
+- **R07-063** — **Should.** For plates carrying heavy roofs or tying frames in lateral load, use okkake-daisen or kanawa (or koshikake-kama with a strap) rather than koshikake-ari. *Why:* plates must pass tension along the wall line.
+- **R07-064** — **Should.** At through-posts receiving girders from two or more directions, avoid splicing the girder in the post unless the post is enlarged (≥ ≈ 5 sun / 150 mm) or the heights are staggered (→ R06-031); prefer splicing ≈ 150 mm away from the post. *Why:* cross-section loss in the post at a single height.
+
+### 6.6 Purlins and ridge — 母屋・棟木 (*moya, munagi*)
+
+- Purlins and ridge are spliced ≈ 150 mm from a strut (束, *tsuka*) or post, female over the strut, male on the seat, with koshikake-kama (standard) or koshikake-ari (light roofs); okkake-daisen or kanawa where the roof is heavy, the bay long, or the ridge exposed.
+- **R07-065** — **Must.** Splices of adjacent purlins are staggered (not in the same bay line), and a purlin splice is not placed where the rafters' own splices fall. *Why:* coincident splices create a hinge line across the roof plane.
+- **R07-066** — **Should.** Keep ridge splices out of the central bay(s) where possible, place the ridge's female toward the direction from which the ridge is erected, and in exposed roofs use okkake-daisen or kanawa. *Why:* the ridge is the ceremonial and visual spine of the roof (上棟), and the central bay usually carries the heaviest roof load; custom in many workshops is to avoid a joint there (a variant, not universal).
+
+### 6.7 Rafters — 垂木 (*taruki*)
+
+- Rafters are spliced **only over a support** (purlin, plate), by butt (突付け) or bevelled scarf (殺ぎ継ぎ), nailed to the support; adjacent rafters alternate their splice positions.
+- **R07-067** — **Must.** Never splice a rafter within the eaves overhang or within about one purlin spacing inside the wall plate; the eaves cantilever must be the continuous extension of a rafter with a full back-span. *Why:* the cantilever is held down by the back-span; a splice at or beyond the plate leaves the eaves unsupported (→ Ch. 11).
+- **R07-068** — **Should.** Do not splice exposed (化粧) rafters; use full-length members. Where hidden rafters (野垂木) are spliced, stagger them alternately over the purlins. *Why:* visible rafter splices are considered poor work; hidden splices must not align.
+
+### 6.8 Floor beams and joists — 大引・根太 (*ōbiki, neda*)
+
+- Floor beams (大引) are spliced over a floor strut (床束) or a sill with koshikake-ari (standard), koshikake-kama, or a butt on a seat with nails/cramps; joists (根太) are butted over a floor beam and nailed, staggered.
+- **R07-069** — **Should.** Splice floor beams ≈ 150 mm from a floor strut on the cantilever side (as for other seated splices) or directly over a strut with a half-lap/butt that bears fully on it; stagger joist butts so that adjacent joists are not spliced on the same beam. *Why:* avoids soft lines in the floor.
+
+### 6.9 Post splices — root splices (根継ぎ, *netsugi*)
+
+When the base of a post has decayed (the usual cause: water at the foot of the post, termite, or contact with earth), the decayed part is cut away and a new foot is spliced on. This is the most common structural repair in Japanese buildings (→ Ch. 16).
+
+| Netsugi type | Assembly | Strength | Appearance | Use |
+|---|---|---|---|---|
+| 金輪継ぎ *kanawa* | lateral (slid in sideways), keyed | high in all directions | T-mechigai visible on two faces | standard high-quality netsugi |
+| 尻挟み継ぎ *shiribasami* | as described §4.3 | high | clean straight lines on faces | exposed posts |
+| 台持ち継ぎ *daimochi* | lateral; dabo or bolts | moderate | lap line visible | simpler work, hidden posts |
+| 箱目違い / 十字目違い (*hako- / jūji-mechigai*) | axial (post must be jacked up by tongue length) | compression and shear only | clean square line | posts in pure compression, where jacking is possible |
+| 四方蟻 *shihō-ari* (four-way dovetail) | diagonal (slid in along the diagonal of the section) | moderate; mainly compression and alignment | dovetails appear on all four faces | display of skill; rare in structural practice |
+| 四方鎌 *shihō-kama* (four-way kama) | diagonal | as shihō-ari | kama outlines on four faces | display of skill; rare |
+| 竿車知 / 雇い竿 | axial or with loose tongue | moderate | lines visible | specific cases |
+
+- **Proportions:** the netsugi length (from the old post's cut to the joint's far end) is chosen so that the joint lies wholly in sound wood — commonly the joint's upper end ≥ ≈ 1 × W above the highest decay; joint lengths as §4 (kanawa ≈ 2.5–3 W).
+- **Orientation rules:**
+  - the new foot is set with its **butt (moto) down**, as the tree grew (→ Ch. 03, sakabashira taboo);
+  - its faces (kiomote/kiura, marking faces) match the old post;
+  - the joint does not coincide with any mortise (nuki, ashigatame, sill, 地覆) — keep ≥ ≈ 1 × W clear;
+  - the lap plane is oriented so that the lateral assembly direction is free (away from walls, toward the room or the exterior as access permits).
+- **Procedure outline (→ Ch. 16):** 1. shore and jack the load off the post (揚げ前 *agemae*); 2. strike plumb reference lines on all faces of the old post and a level reference line; 3. cut away the decayed foot; 4. mark and cut the joint on the old post in situ; 5. make the new foot, marking from the same references (transfer by story stick); 6. trial fit; 7. slide in, key/pin; 8. fit the new foot to the foundation stone (光付け *hikaritsuke*) or sill; 9. lower the load.
+- **Rules:**
+  - **R07-070** — **Must.** A root splice lies wholly in sound wood and clear of all mortises; its new foot is set moto-down with matching face orientation. *Why:* splicing into partly decayed wood or into a mortise zone produces a weak joint; an inverted foot violates both custom and durability practice.
+  - **R07-071** — **Must.** Choose the netsugi type by the **assembly direction available**: lateral (kanawa, shiribasami, daimochi) when the post cannot be raised, axial (mechigai types) only when it can be jacked by the tongue length. *Why:* the post is part of a standing frame.
+  - **R07-072** — **Should.** Use a new foot of the same species or a more durable one (hinoki, hiba, kuri), well seasoned, and protect the new end grain at the base. *Why:* the base is the most decay-exposed part of the post.
+- **Note on terms:** 地獄枘 (*jigoku-hozo*, "hell tenon", a blind fox-wedged tenon that cannot be withdrawn) is a connection, not a splice (→ Ch. 08, Ch. 09).
+
+### 6.10 Boards — end and edge joining (cross-reference)
+
+Boards are joined edge to edge (矧ぎ, *hagi*) and end to end in floors, ceilings, walls and fittings. Their techniques — 本実 (*hon-zane*, tongue-and-groove), 相決り (*aijakuri*, shiplap/rebated), 雇い実 (*yatoi-zane*, loose spline), 突付け (butt) end joints over joists, 乱継ぎ (*ranzugi*, random/staggered end joints), 目透かし (*mesukashi*, deliberate shadow gaps) — are covered in → Ch. 14.
+
+- **R07-073** — **Must.** End joints of floor and ceiling boards fall over a joist or support and are staggered (乱継ぎ) so that no two adjacent boards have end joints on the same joist; the usual minimum stagger is two joist spacings. *Why:* aligned end joints make a hinge line and a visible stripe.
+- **R07-074** — **Should.** Lay tongue-and-groove boards so that the tongue leads in the direction of laying and so that blind nails through the tongue are hidden by the next board (→ Ch. 14). *Why:* standard sequence for concealed fixing.
+
+---
+
+## 7. Summary comparison table
+
+Ratings are qualitative (●●● good, ●● moderate, ● poor, — none) and assume correct proportions and placement. "Support below" = whether the splice must be at or beside a support.
+
+| Joint | Tension | Bending | Torsion | Shear (own) | Difficulty | Typical members | Support below? | Assembly | Visible appearance |
+|---|---|---|---|---|---|---|---|---|---|
+| 突付け tsukitsuke | — | — | — | — | very easy | rafters, joists, boards | **yes, on it** | laid | single line |
+| 相欠き aikaki | ● (pins only) | ● | ● | ●● if on support | easy | secondary, ties | yes | drop | line + lap line |
+| 布継ぎ / 略鎌 | ●● | ● | ● | ●● | moderate | nuki, ties | yes (nuki: in post) | drop / slide | stepped line |
+| 殺ぎ sogi | — (nails) | ● | ● | ● | easy | rafters, battens, fascia | **yes, on it** | laid | sloping line |
+| 台持ち daimochi | ●● (dabo/bolts) | ●● over support | ●● | ●●● | moderate | log beams, roof beams, netsugi | **yes, on it** | drop / lateral | lap line |
+| 目違い mechigai | — | — | ● | ●● (lateral) | easy | posts, finish members | continuous bearing | axial | single line |
+| 箱目違い hako-mechigai | — | — | ●● | ●●● (lateral) | moderate | posts (netsugi), finish | continuous bearing | axial | single square line |
+| 蟻 ari | ● | — | — | — | easy | secondary | yes | drop | dovetail outline (top) |
+| 腰掛け蟻 koshikake-ari | ● | — | ● | ●●● (seat) | easy | sills (interior), sleepers, purlins | yes, ≈150 mm | drop | step (side), dovetail (top) |
+| 鎌 kama | ●● | — | — | — | moderate | continuously supported members | yes | drop | kama outline (top) |
+| 腰掛け鎌 koshikake-kama | ●● | — | ● | ●●● (seat) | moderate | sills, plates, girders, purlins | yes, ≈150 mm | drop | step (side), kama (top) |
+| 目違い/箱目違い腰掛け鎌 | ●● | — | ●● | ●●● | moderate–hard | exposed plates, sills | yes, ≈150 mm | drop | cleaner faces |
+| 隠し鎌/隠し蟻 | ● | — | ●● | ●● | hard | exposed members | yes | drop | straight line |
+| 追掛け大栓 okkake-daisen | ●●● | ●●● (best of traditional) | ●● | ●●● | hard | plates, girders, beams, ridge, sills | preferably near | **axial slide** | long stepped line + 2 pins |
+| 金輪 kanawa | ●●● | ●●● | ●●● | ●●● | hard | plates, beams, sills, **netsugi** | preferably near | **lateral** + key | stepped line, T-mechigai, key |
+| 尻挟み shiribasami | ●●● | ●●● | ●●● | ●●● | hard | exposed plates, posts | preferably near | per drawing + key | straight lines + key |
+| 竿 sao | ●● (pins) | ● | ● | ● | moderate | girders through posts | yes | axial | line |
+| 竿車知 sao-shachi | ●●● | ● | ●● | ●● | moderate–hard | sills (last piece), girders through posts | yes | axial + shachi | line + shachi heads |
+| 腰掛け竿車知 | ●●● | ● | ●● | ●●● | hard | plates, girders, sills | yes, ≈150 mm | drop/axial + shachi | step + shachi |
+| 雇い竿 yatoi-sao | ●● – ●●● | ● | ●● | ●● | moderate–hard | repairs, through-posts | yes | loose tongue + keys | line + keys |
+| 千切り chigiri | ● | — | — | — | moderate | thick boards, slabs | continuous | inlaid | bow-tie (if on face) |
+| 貫の継手 (in post) | ●● | ●● (confined) | ● | ●● | moderate | nuki | **inside post** | threaded + wedges | hidden in post |
+| 宮島 miyajima | ● | — | ● | ● | moderate | saobuchi, finish | yes | per drawing | clean on three faces |
+| いすか isuka | ● | — | ● | ● | moderate | saobuchi, finish | yes | laid | slanted line |
+| 四方蟻 / 四方鎌 | ●● | ● | ●● | ●● | very hard | netsugi (display) | column | diagonal | four-face outlines |
+
+---
+
+## 8. Typical dimensions (representative)
+
+The following figures are **representative** values drawn from the proportional rules given in the entries; they are intended as a starting point for workshop templates, **not** as specifications. Precut manufacturers, regional schools and individual masters use their own values. For code-governed structural members verify with test-based data (→ Ch. 17).
+
+### 8.1 Metric members: 105, 120 and 150 mm square (D = W)
+
+| Joint / element | 105 mm | 120 mm | 150 mm |
+|---|---|---|---|
+| **腰掛け蟻 koshikake-ari** — neck width | 30 | 33–40 | 40–50 |
+| head width (max) | 45–55 | 55–65 | 65–80 |
+| dovetail length (shoulder to tip) | 60–80 | 70–95 | 90–120 |
+| seat length s | 15–30 | 20–30 | 30–45 |
+| seat height (from bottom) | 35–55 | 40–60 | 50–75 |
+| **腰掛け鎌 koshikake-kama** — neck width | 30–35 | 35–40 | 45–50 |
+| head width (max) | 55–63 | 60–72 | 75–90 |
+| total kama length | 120–160 | 150–190 | 180–240 |
+| seat length s | 15–30 | 20–30 | 30–45 |
+| sliding slope on bearing faces | ≈ 1:25–1:40 | ≈ 1:25–1:40 | ≈ 1:25–1:40 |
+| offset of joint from post centre | ≈ 150 | ≈ 150 | ≈ 150–200 |
+| **追掛け大栓 okkake-daisen** — total length L | 315–370 | 360–420 | 450–525 |
+| jaw (顎) height | 10–15 | 12–18 | 15–20 |
+| sliding slope | ≈ 1:10 | ≈ 1:10 | ≈ 1:10 |
+| tip mechigai/eriwa length | 15–20 | 15–25 | 20–30 |
+| daisen (2 pcs, square) | 15–18 | 18–21 | 21–24 |
+| **金輪 kanawa** — total length L | 260–315 | 300–360 | 375–450 |
+| central step height | 15–18 | 15–20 | 20–25 |
+| key (栓) thickness × width | 15–18 × 30–40 | 18 × 36–45 | 21–24 × 45–55 |
+| T-mechigai length | 15–20 | 15–25 | 20–30 |
+| **竿車知 sao-shachi** — sao thickness | 27–33 | 30–40 | 40–50 |
+| sao length | 150–210 | 180–240 | 225–300 |
+| shachi section (at head) | 10–12 × 30–36 | 12–15 × 36–45 | 15–18 × 45–55 |
+| shachi per joint | 1 pair | 1 pair | 1–2 pairs |
+| draw offset | 1–1.5 | 1–2 | 1.5–2 |
+
+All values in mm.
+
+### 8.2 Traditional members: 4 sun (≈ 121 mm) and 5 sun (≈ 152 mm) square
+
+1 sun = 10 bu ≈ 30.3 mm; 1 bu ≈ 3.03 mm; 1 shaku = 10 sun ≈ 303 mm.
+
+| Joint / element | 4 sun (≈ 121 mm) | 5 sun (≈ 152 mm) |
+|---|---|---|
+| **腰掛け蟻** — neck width | 1.1–1.3 sun (33–39 mm) | 1.4–1.6 sun (42–48 mm) |
+| head width | 1.8–2.1 sun (55–64 mm) | 2.2–2.6 sun (67–79 mm) |
+| dovetail length | 2.3–3.0 sun (70–91 mm) | 3.0–3.8 sun (91–115 mm) |
+| seat length | 7 bu–1 sun (21–30 mm) | 1–1.5 sun (30–45 mm) |
+| **腰掛け鎌** — neck width | 1.2–1.3 sun (36–39 mm) | 1.5–1.6 sun (45–48 mm) |
+| head width | 2.0–2.4 sun (61–73 mm) | 2.5–3.0 sun (76–91 mm) |
+| total kama length ("6-sun kama" etc.) | 5–6 sun (152–182 mm) | 6–8 sun (182–242 mm) |
+| seat length | 5 bu–1 sun (15–30 mm) | 1–1.5 sun (30–45 mm) |
+| sliding slope (example) | ≈ 1–1.5 bu over the depth | ≈ 1.5–2 bu over the depth |
+| **追掛け大栓** — total length | 1.2–1.4 shaku (364–424 mm) | 1.5–1.75 shaku (455–530 mm) |
+| jaw height | 4–6 bu (12–18 mm) | 5–7 bu (15–21 mm) |
+| daisen (2 pcs) | 6–7 bu square (18–21 mm) | 7–8 bu square (21–24 mm) |
+| **金輪** — total length | 1.0–1.2 shaku (303–364 mm) | 1.25–1.5 shaku (379–455 mm) |
+| central step | 5–6 bu (15–18 mm) | 6–8 bu (18–24 mm) |
+| key thickness × width | 6 bu × 1.2–1.5 sun (18 × 36–45 mm) | 7–8 bu × 1.5–1.8 sun (21–24 × 45–55 mm) |
+| **竿車知** — sao thickness | 1.0–1.3 sun (30–39 mm) | 1.3–1.6 sun (39–48 mm) |
+| sao length | 6–8 sun (182–242 mm) | 7.5–10 sun (227–303 mm) |
+| shachi section | 4–5 bu × 1.2–1.5 sun (12–15 × 36–45 mm) | 5–6 bu × 1.5–1.8 sun (15–18 × 45–55 mm) |
+
+**R07-075** — **Should.** Derive each workshop's joint dimensions from the member size by stated proportions (recorded on templates), check them against the end-distance and jaw-width rules of → Ch. 06 §4.3 and §9, and use the same template for male and female. *Why:* proportional templates keep joints balanced across member sizes; ad hoc dimensions produce weak necks or narrow jaws.
+
+**R07-076** — **Must.** For members deeper than they are wide (e.g. 120 × 240 mm plates and girders), take neck and head widths from **W** and joint lengths (kama length, okkake/kanawa length) from **D**; do not scale all dimensions from one of the two. *Why:* widths govern the neck/jaw balance in plan; lengths govern shear planes and lap sections in elevation.
+
+---
+
+## 9. Rule index for this chapter
+
+| Rule | Strength | Subject |
+|---|---|---|
+| R07-001 | Must | splice on support or bending-capable |
+| R07-002 | Must | female continuous; female first |
+| R07-003 | Must | stagger; each piece spans two supports |
+| R07-004 | Must | no splice over opening/under post/at mortise |
+| R07-005 | Should | seated splice ≈150 mm from support |
+| R07-006 | Should | match halves |
+| R07-007 | Must | mark both halves from same references |
+| R07-008 | Should | templates |
+| R07-009 | Must | butt only on support |
+| R07-010 | Should | stagger butts |
+| R07-011 | Must | half-lap needs support + fasteners |
+| R07-012 | Should | length behind hooks |
+| R07-013 | Must | sogi over support, nailed |
+| R07-014 | Should | exterior scarf sheds water |
+| R07-015 | Must | daimochi on the support |
+| R07-016 | Must | log laps from struck lines |
+| R07-017 | Should | dabo away from tenon mortise |
+| R07-018 | Must | end faces bear, tongue short |
+| R07-019 | Should | hako-mechigai only if post can be raised |
+| R07-020 | Must | plain ari only secondary |
+| R07-021 | Must | seat bears in koshikake-ari |
+| R07-022 | Should | prefer koshikake-kama for tension |
+| R07-023 | Must | jaw width ≥ ¼ W |
+| R07-024 | Must | kama bearing faces square |
+| R07-025 | Must | clearance at kama tip |
+| R07-026 | Must | no post on sill kama joint |
+| R07-027 | Must | post tenon into female |
+| R07-028 | Should | mechigai against twist |
+| R07-029 | Should | no reliance on koshikake-kama for tension |
+| R07-030 | Must | socket through; shear length behind head |
+| R07-031 | Should | hidden kama only where capacity allows |
+| R07-032 | Must | stepped scarf ≠ full strength |
+| R07-033 | Should | stepped scarf ≈ 3 D |
+| R07-034 | Must | okkake length |
+| R07-035 | Must | daisen through both pieces, end distances |
+| R07-036 | Must | axial room for okkake |
+| R07-037 | Should | hardwood daisen; bore after trial fit |
+| R07-038 | Should | flat sliding faces |
+| R07-039 | Must | kanawa key pre-stresses |
+| R07-040 | Should | kanawa for lateral assembly |
+| R07-041 | Must | kanawa key grain and end distance |
+| R07-042 | Should | shiribasami on exposed faces |
+| R07-043 | Must | pins/keys dry hardwood, long grain |
+| R07-044 | Should | consistent visible pins |
+| R07-045 | Should | sao with ≥ 2 pins or shachi |
+| R07-046 | Must | drive paired shachi alternately |
+| R07-047 | Should | sao-shachi for last member |
+| R07-048 | Should | leave shachi re-drivable |
+| R07-049 | Should | koshikake-sao-shachi for reliable tension |
+| R07-050 | Should | yatoi-sao when both fixed |
+| R07-051 | Must | yatoi quality |
+| R07-052 | Must | chigiri grain across joint |
+| R07-053 | Should | chigiri and board movement |
+| R07-054 | Must | nuki spliced inside posts only |
+| R07-055 | Must | stagger nuki splices |
+| R07-056 | Should | wedge from both faces; re-drive |
+| R07-057 | Should | three-face-visible finish splices |
+| R07-058 | Should | avoid saobuchi splices |
+| R07-059 | Must | sill splice exclusions |
+| R07-060 | Should | stagger sill splices |
+| R07-061 | Should | protect sill splices from decay |
+| R07-062 | Must | no beam crossing on plate splice |
+| R07-063 | Should | plates: okkake/kanawa/strap |
+| R07-064 | Should | girders at through-posts |
+| R07-065 | Must | stagger purlin splices |
+| R07-066 | Should | ridge splice placement |
+| R07-067 | Must | no rafter splice in eaves |
+| R07-068 | Should | no exposed rafter splices |
+| R07-069 | Should | floor beam and joist splices |
+| R07-070 | Must | netsugi in sound wood, moto down |
+| R07-071 | Must | netsugi type by assembly direction |
+| R07-072 | Should | durable species for netsugi |
+| R07-073 | Must | board end joints staggered over supports |
+| R07-074 | Should | T&G laying direction |
+| R07-075 | Should | proportional templates |
+| R07-076 | Must | widths from W, lengths from D |
+
+---
+
+## 10. Notes on sources and uncertainties
+
+The descriptions above synthesize commonly taught Japanese practice, published glossaries of carpentry terms, the Japan Housing Finance Agency's *Wooden Housing Construction Specification* (木造住宅工事仕様書) for mainstream sill and plate practice, and general references such as Kiyosi Seike, *The Art of Japanese Joinery* (1977), Yasuo Nakahara, *Japanese Joinery* (English ed. 1983), and Torashichi Sumiyoshi & Gengo Matsui, *Wood Joints in Classical Japanese Architecture* (c. 1989–1991); see → Ch. 01. Experimental data on the tensile and bending performance of traditional splices (koshikake-ari, koshikake-kama, okkake-daisen, kanawa and others) have been published by Japanese research institutes and collected in databases of traditional-construction joint tests; use those, not the qualitative ratings of §7, for design (→ Ch. 17).
+
+**Flagged uncertainties in this chapter:**
+
+1. **Okkake-daisen geometry:** sources agree on the essentials (stepped lap about 3 × D long, jaw at mid-length, ≈ 1:10 sliding slope, assembly by sliding rather than dropping, two daisen driven from the side), but published drawings differ on whether the stepped profile lies in elevation or in plan and on the exact form of the tip mechigai/eriwa. The sketch in §4.1 is schematic.
+2. **Kanawa key direction:** sources variously describe the key as driven "vertically" (縦から) or from the side face; it is in all cases perpendicular to the face showing the profile.
+3. **Shiribasami:** described as kanawa with the mechigai placed internally; its assembly direction is not uniformly described.
+4. **Nuno-tsugi vs ryaku-kama:** the names overlap in the literature.
+5. **Miyajima-tsugi and isuka-tsugi:** use (finish members such as saobuchi) is well attested; exact geometry varies and published descriptions are scarce.
+6. **Koshikake-sao-shachi:** both "dropped with open-topped slot" and "slid-in" forms are described.
+7. **Moto/sue custom for splice direction** (→ Ch. 06 §5.3) and ridge-splice customs (R07-066) are variants, not universal.
+8. **All dimensions** in §8 are representative, derived from proportional rules and a small number of published examples (e.g. a 15 mm seat for koshikake-kama, a "6-sun kama" of 3 sun head + 3 sun neck, a sliding slope of ≈ 1.5 bu over 4 sun, okkake length ≈ 3 × D with ≈ 1:10 slope). They should be replaced by the workshop's own templates.
+9. **Anchor-bolt position** for sill splices follows current mainstream specification logic (bolt on the male/upper piece); exact distances are code- and specification-dependent (→ Ch. 17).
