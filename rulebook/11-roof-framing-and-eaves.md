@@ -271,4 +271,184 @@ The lever principle: if the eave load at the tip is *P* at distance *a* outside 
 
 ---
 
+## 3. Rafters (垂木 taruki)
+
+### 3.1 Functions and classes
+
+Rafters carry the roof sheathing (野地) and the covering from purlin to purlin and cantilever beyond the wall-plate to form the eave. They are classified:
+
+- by **visibility:** **化粧垂木 *keshō-daruki*** (display rafters, planed and proportioned, seen under the eave or inside) and **野垂木 *no-daruki*** (hidden rafters, rough, in a hidden roof or above a ceiling);
+- by **tier:** in a **single eave (一軒 *hitonoki*)** one tier of rafters runs out to the eave. In a **double eave (二軒 *futanoki*)** the **lower rafters (地垂木 *ji-daruki*)** run from the interior over the plates out to the **lower eave member (木負 *kioi*)**, and the **flying rafters (飛檐垂木 *hien-daruki*)** sit on the 木負 and project further to the upper eave member (茅負 *kayaoi*). The tail (尻 *shiri*) of each flying rafter extends back over the lower rafters and is fixed to them. The 木負 acts as its fulcrum. Nara-period buildings often have **round lower rafters and square flying rafters (地円飛角 *jien-hikaku*)**. Later wayō buildings generally have square rafters in both tiers;
+- by **plan arrangement:** **平行垂木 *heikō-daruki*** (parallel; wayō) and **扇垂木 *ōgi-daruki*** (fan rafters; Zen style, and at the corners in the Great Buddha style; → Ch. 05 § 10.4, → Ch. 12);
+- by **spacing** (§ 3.2).
+
+### 3.2 Spacing systems
+
+Traditional rafter spacing is measured in **枝 *eda*** ("branches"). One **一枝 *hito-eda*** is the centre-to-centre spacing of rafters, i.e. rafter width + clear gap. In temple and shrine work the whole proportional system of bays and bracket sets is keyed to the rafter spacing (枝割 *edawari*; → Ch. 12). Named spacings:
+
+| Spacing | Japanese | Clear gap between rafters (one common definition) | Use |
+|---|---|---|---|
+| Full-dense | 本繁 *hon-shige* | equal to the rafter depth (成 *sei*); some texts: equal to the rafter width | temples, shrines, high-status display eaves |
+| Half-dense | 半繁 *han-shige* | equal to rafter width + rafter depth | secondary buildings, some shoin |
+| Sparse | 疎垂木 *mabara-daruki* (疎割り) | wide; in houses commonly ≈1 shaku to 1.5 shaku centres (≈300–455 mm) | houses, farmhouses, service buildings |
+| Paired | 吹寄垂木 *fukiyose-daruki* | rafters grouped in twos (or threes) with a wide gap between groups | sukiya, shoin, tea houses (→ Ch. 13) |
+
+The definitions of 本繁 and 半繁 vary between sources (whether the gap is measured against the rafter's width or its depth). The book gives the reading found in current glossaries and flags the variation.
+
+**R11-020** — *Must.* In temple and shrine work, fix the rafter spacing (一枝) **before** fixing bay widths and bracket-set dimensions, and make every bay an integral number of 枝. *Why:* in the 枝割 system the bays, the bracket-set widths and the corner geometry are all multiples of the rafter spacing. A bay that is not a whole number of 枝 leaves a rafter off-centre over a bracket, which is considered a serious fault (→ Ch. 12).
+
+**R11-021** — *Should.* In houses with sparse rafters, set the rafters at 1.5-shaku (≈455 mm) centres (or 1 shaku, ≈303 mm, under heavy covering or deep eaves), aligned with the post module so that a rafter falls over each post line at the gable and eave. *Why:* 455 mm divides the 910 mm module evenly, allows standard sheathing lengths, and keeps the rafter layout symmetrical on the elevation.
+
+### 3.3 Rafters on the plate: seating and fixing
+
+- **Seating.** In good work the plate top is **bevelled to the rafter slope** and the rafter bears on it full-width at the 峠 (→ Ch. 05 § 5.2). Alternatively the rafter is notched with a small seat (垂木欠き). In temple work the display rafters are often also let slightly into the 茅負 at their tips (茅負の垂木欠き, notches in the 茅負 underside).
+- **Nailing.** Traditionally each rafter is nailed down to the plate with a long forged nail (和釘 *wa-kugi*, "rafter nail" 垂木釘; → Ch. 09), driven from the top (脳天打ち *nōten-uchi*) through the rafter into the plate or purlin. The head is later covered by the sheathing. Alternatively it is toe-nailed (斜め打ち) from the sides. Nails at intermediate purlins are usual as well.
+- **Modern fixing.** Current Japanese practice (e.g. the Japan Housing Finance Agency's construction specification) calls for a twisted metal strap (ひねり金物 *hineri-kanamono*) or similar connector at each rafter–plate crossing against wind uplift (→ Ch. 17).
+- **At the ridge,** rafters from the two sides meet over the ridge beam: butted with plumb cuts, lapped side by side, or halved together (相欠き). They are nailed to the ridge beam. They are paired (opposite each other) unless the spacing system dictates otherwise.
+
+**R11-022** — *Must.* Fix every rafter to the wall-plate against uplift (nail and/or strap). Where rafters are spliced, splice them only over a purlin. *Why:* the eave is the part of the roof most exposed to wind suction. A rafter lifted at the plate starts the progressive stripping of a roof in a typhoon. A splice between supports is a hinge.
+
+**R11-023** — *Should.* Drive rafter nails from the top in traditional work, with nail length at least about 2.5 times the rafter depth (so that more than half the nail is in the plate), and pre-bore hardwood and near the rafter end. *Why:* the top nail acts in withdrawal and needs embedment. Pre-boring avoids splitting the rafter's end, which is the part of the rafter that carries the eave. (Representative; → Ch. 09 for wa-kugi sizes.)
+
+### 3.4 Rafter ends (鼻 hana)
+
+- The rafter tip (垂木鼻 *taruki-bana*) is cut either **plumb** (垂直) or **square to the rafter** (直角), matching the eave member it meets (→ Ch. 05 § 6.7). In houses the ends are usually hidden by a fascia (鼻隠し). In temples and shrines the display rafter ends are exposed.
+- **Exposed rafter ends** are finished with care: the end grain is planed or sawn clean, arrises chamfered. In painted buildings the ends are often painted white or yellow ochre, or capped with decorative metal (垂木先金具 *taruki-saki kanagu*) in high-status buildings. The metal also protects the end grain.
+- In wayō double eaves, the **flying rafters are commonly tapered** toward their tips in depth and sometimes in width (a refinement that lightens the eave line). **Flag:** the amount varies with period and school.
+- Under **curved eaves** the rafter tips follow the eave curve (sweep) and near the corners are lifted and twisted (→ Ch. 05 § 10.3).
+
+**R11-024** — *Must.* Protect exposed rafter ends from end-grain water uptake: with a sound cut surface, paint, or a metal cap, and with the eave covering projecting beyond them. *Why:* rafter ends are the first members of a roof to decay. In repair records, eave rafter tips are among the most frequently replaced parts (→ Ch. 16).
+
+---
+
+## 4. The eave assembly
+
+The eave (軒 *noki*) is the edge assembly of the roof. Its members differ by building type. The following entries follow the book's component template.
+
+```
+  Eave section, double-eave temple type (schematic, not to scale)
+
+                         瓦 / 檜皮 roof covering
+                   _______________________________
+                  / 野地 noji (hidden roof boarding)
+     裏甲 urakō  /    野垂木 no-daruki (hidden rafter)
+  ▄▄▄▄▄▄▄▄▄▄▄▄ /
+  █ 茅負 kayaoi █_________________
+    ╲ 飛檐垂木 hien-daruki        ╲______ tail fixed on 地垂木
+      ╲      ▄▄▄▄▄▄
+        ╲    █木負 kioi█_____________________
+              ╲  地垂木 ji-daruki             ╲
+                ╲                  丸桁 gangyō ○  (on bracket sets)
+                                        ═════╪═══  側柱 column line
+```
+
+### 4.1 Eave member at the rafter tips — 茅負 (kayaoi)
+- **Class:** eave member (軒付け材).
+- **Typical use:** laid across the tips of the outermost rafters (the flying rafters in a double eave, the single tier in a single eave) in temples, shrines and high-grade buildings.
+- **Load behaviour:** ties the rafter tips together and distributes local loads (snow, a person on the eave) between rafters. It carries the 裏甲 and the roof edge. It is not a primary beam: it spans only between rafters.
+- **Proportions:** section roughly trapezoidal. The depth is of the order of the rafter depth to about 1.5 times it, and the width about the same (representative; set by the kiwari, → Ch. 12). The underside is notched to seat the rafter tips.
+- **Orientation:** the front face is plumb, or inclined per school. It follows the eave curve (反り) in elevation and plan.
+- **Marking:** from the full-size eave curve (→ Ch. 05 § 10.2). Rafter positions come from the 枝割.
+- **Assembly:** laid after the rafters, nailed down into each rafter tip. Splices (scarfs) fall over rafters. At the corner the two 茅負 meet on the hip in a mitre (→ Ch. 05 § 6.8).
+- **Rules:** R11-025, R11-026.
+- **Common errors:** a curve taken from the rafter tips as installed (which carries their errors) instead of from the full-size curve; splices between rafters.
+
+### 4.2 Lower-tier eave member — 木負 (kioi)
+The equivalent of the 茅負 at the tips of the lower rafters in a double eave. It carries the flying rafters, which bear on its top, and it acts as their fulcrum. Its curve is related to (but not identical with) that of the 茅負. It is notched on top for the flying rafters.
+
+### 4.3 Eave edge board — 裏甲 (urakō)
+- Board(s), commonly about 1 sun (≈30 mm) thick or more, laid **on top of the 茅負** and projecting slightly beyond it. It forms the actual roof edge on which the first course of the covering starts. Its underside is visible from below (hence 裏, "back").
+- **切裏甲 *kiri-urakō*:** short boards with the grain running **across** the eave (end grain to the front). **布裏甲 *nuno-urakō*:** long boards with the grain **along** the eave. The choice follows period and building type, and 切裏甲 is associated with tiled roofs.
+- It follows the eave curve. In 布裏甲 the boards are bent or cut to the curve. In 切裏甲 the curve is built up piece by piece.
+
+### 4.4 Eave boards of houses — 広小舞 (hirokomai) and 淀 (yodo)
+- **広小舞 *hirokomai*:** a board laid on the rafter tips along the eave, on top of the rafters (in houses, where there is no 茅負). It stiffens the rafter tips and carries the first course of the roof. Representative: 0.6–0.8 sun thick × 3–5 sun wide (≈18–24 × 90–150 mm).
+- **淀 *yodo*:** a thin strip laid on the 広小舞 (or on the 裏甲) along the outer edge, which raises the first course of tiles or shingles to the correct angle (the "kick" at the eave). On gable verges the corresponding member runs up the slope as **登り淀 *nobori-yodo*** on top of the bargeboard.
+
+### 4.5 Fascia — 鼻隠し (hanakakushi)
+- A board nailed across the rafter ends ("nose-hider"), in houses and utilitarian buildings. It is set **plumb** or **square to the rafters**. The rafter ends are cut accordingly (→ Ch. 05 § 6.7–6.8).
+- Representative: 0.8–1.2 sun thick × 5–8 sun wide (≈24–36 × 150–240 mm), jointed over rafters, mitred at corners.
+- It protects the rafter end grain and carries the gutter hangers in modern work.
+
+### 4.6 Roof boarding and laths — 野地板 (nojiita), 化粧裏板 (keshō-uraita), 木舞/小舞 (komai)
+- **野地板 *nojiita*:** rough boards (typically 4–5 bu, ≈12–15 mm, in houses; today often plywood) nailed across the rafters as the base for the roofing.
+- **化粧裏板 *keshō-uraita*:** planed boards laid on the display rafters and seen from below between them (in a double roof they are not the weather surface).
+- **木舞 / 小舞 *komai* (roof lath):** spaced slats or bamboo battens on the rafters instead of close boarding. They are used under thatch (lashed), and in some traditions under shingles. (Wall laths of the same name are in → Ch. 14.)
+
+**R11-025** — *Must.* Take the curve of every eave member (茅負, 木負, 裏甲, 広小舞 under a curved eave) from the single full-size eave curve. Never take it from the installed rafters. *Why:* → R05-037. Installed rafters carry the accumulated errors. The eave line is the most visible line of the building.
+
+**R11-026** — *Must.* Joint eave members (茅負, 裏甲, 広小舞, fascia) only over a rafter, never between rafters, and stagger the joints of successive layers. *Why:* a joint between rafters is unsupported and opens under snow or foot traffic. Aligned joints in successive layers form a weak line.
+
+### 4.7 Bargeboards and gable ornaments — 破風 (hafu), 懸魚 (gegyo), 螻羽 (keraba)
+
+- **螻羽 *keraba* (verge):** the part of the roof projecting beyond the gable wall. It is carried by the extended purlins, ridge and plates (R11-001). In houses the projection is commonly about 1–2 shaku. In temples and shrines it is proportioned with the eave.
+- **破風 *hafu* (bargeboard):** the board, often massive in temples and shrines, that closes the verge along the slope, fixed to the ends of the purlins and ridge. The two boards meet at the apex in a joint called **拝み *ogami*** ("hands joined in prayer"). The bargeboard is usually curved (反り) to follow or exaggerate the roof curve.
+  - **切妻破風 / 入母屋破風:** on gable and hip-and-gable roofs.
+  - **千鳥破風 *chidori-hafu*:** a small triangular gable set **on** a roof slope, as a dormer-like ornament. It is framed on the rafters of the main roof, with its own small ridge and valleys.
+  - **唐破風 *kara-hafu*:** a bargeboard with an undulating curve, convex (起り) in the centre and turning concave (照り) toward the ends. It appears as the **eave form** of a porch (向唐破風 *mukai-karahafu*, a karahafu roof facing forward) or as a **bump in a straight eave** (軒唐破風 *noki-karahafu*). The karahafu requires its own curved rafters and a curved ridge.
+- **懸魚 *gegyo*:** an ornamental board hung under the apex (拝み) of the bargeboards, originally protecting the ridge-beam end. Main types: 猪目懸魚 *inome-gegyo* (with heart-shaped cut-outs), 梅鉢懸魚 *umebachi-gegyo*, 蕪懸魚 *kabura-gegyo* ("turnip"), with side fins (鰭 *hire*). Smaller **降懸魚 *kudari-gegyo*** hang under the bargeboards at the purlin ends.
+
+**R11-027** — *Must.* Fix bargeboards to the ends of every purlin, the ridge and the plates they cross, and join the apex (拝み) with a positive joint (tenon, dowel or concealed key) plus the 懸魚 fixing. Do not rely on nails into the roof boarding. *Why:* the bargeboard is exposed to wind on both faces at the most wind-sensitive part of the roof. Loose bargeboards are a common typhoon failure.
+
+**R11-028** — *Should.* Keep the top edge of a bargeboard covered (by the verge tiles, a copper cap, or the 登り淀 and roofing) and ventilate its back. *Why:* its large face and horizontal-ish top edge collect water. Bargeboards and 懸魚 decay from the top edge and the back.
+
+---
+
+## 5. Eave depth and how deep eaves are carried
+
+### 5.1 Eave projection (軒の出 noki-no-de)
+
+The eave projection is measured horizontally, from the centre of the wall-plate or column line to the outer face of the eave (fascia, or 茅負, or the roof edge). Conventions differ, so always state which. Representative ranges:
+
+| Building | Typical projection | Carried by |
+|---|---|---|
+| Ordinary house (sparse rafters, fascia) | 2–3 shaku (≈600–900 mm) | rafters cantilevering from the plate |
+| House with deep eaves | 3–4 shaku (≈900–1,200 mm) | heavier rafters, or 出桁造 (§ 5.3) |
+| Machiya / merchant house front (出桁造) | 4–6 shaku (≈1.2–1.8 m) | cantilever arms (腕木) and an outer plate (出桁) |
+| Shrine (small, bark roof) | proportioned to column height and spacing | rafters, simple brackets |
+| Temple hall (wayō, with hanegi) | often 2–4 m or more for large halls | bracket sets + hidden roof + hanegi |
+
+**Proportion rule of thumb.** Houses aim for the eave to throw rain clear of the wall base and to shade the openings. A representative ratio of eave projection to eave height (from ground or foundation to eave) is about **0.3**. For example, a 3 m eave height with a 0.9 m eave. **Flag:** this is an approximation, not a traditional canonical rule.
+
+**R11-029** — *Should.* In houses, give an eave projection of at least 2.5–3 shaku (≈750–900 mm) on the weather sides of walls with earthen plaster or exposed timber. *Why:* earthen walls (→ Ch. 14) and exposed timber rely on the eave for protection. Shallow eaves are the principal cause of wall erosion and sill decay in traditional houses.
+
+### 5.2 Rafter cantilevers
+
+For a plain rafter eave (no brackets, no hanegi):
+- the rafter cantilevers from the plate (軒桁) and is held down by its **back-span** to the first purlin (and beyond);
+- the eave cantilever should not exceed the back-span. Representative: with purlins at 3 shaku, an eave of up to about 3 shaku is carried by a continuous rafter over at least two interior purlin spans;
+- deeper eaves need a larger rafter depth (e.g. 1.5 × 2 sun instead of 1.5 × 1.5 sun; § 10) or one of the systems below.
+
+**R11-030** — *Must.* A cantilevered eave rafter must be continuous (unspliced) from its tip over the wall-plate and at least the first interior purlin. Its tail must be nailed down at the purlin. *Why:* the cantilever moment is maximum at the plate and is balanced only by the back-span. A splice or a loose tail turns the eave into a hinge.
+
+### 5.3 Outrigger-plate construction (出桁造 degeta-zukuri) and cantilever arms (腕木 udegi)
+
+- **腕木 *udegi*** (cantilever arms) pass **through** the wall posts (or are tenoned into them and wedged) and project outward. Their tips carry an **outer plate (出桁 *degeta*)**, on which the rafters rest near the eave. The rafter cantilever beyond the 出桁 is then short.
+- The arm is a lever: the outer load is balanced by the post (through the tenon, with wedges or pins, → Ch. 09) and often by a back-span inside, tied to the structure.
+- Common in Edo-period merchant houses (町家, 商家) and in temple subsidiary buildings. It allows 4–6 shaku eaves with slender rafters, and a crisp, exposed eave.
+- A **持送り *mochiokuri*** (bracket or corbel) under the arm, fixed to the post, supports the arm at its root and adds a decorative element.
+
+**R11-031** — *Must.* A cantilever arm (腕木) passing through a post must be wedged or pinned tight in the post mortise, with its shoulder bearing on the outer face. Where it does not continue inside as a back-span, the post and the wall frame must be designed for the resulting moment. *Why:* a loose through-tenon lets the arm rotate and the outer plate drop. The arm's moment is transferred to the post as a couple at the mortise.
+
+### 5.4 Cantilevered beams (出し梁 dashibari)
+
+The upper-floor beams (or roof beams) are extended beyond the wall line to carry the outer plate or an overhanging upper wall (出し梁造 *dashibari-zukuri*). This is robust because the beam's own back-span balances the cantilever. It appears in snow regions and in machiya with projecting upper storeys. **Flag:** regional naming varies.
+
+### 5.5 Temple eaves: bracket sets, tail rafters and hanegi
+
+In temples the eave is carried by a combination of:
+1. **bracket sets (組物 *kumimono*)** on the columns, which step the support outward (→ Ch. 12);
+2. **tail rafters (尾垂木 *odaruki*)** in the bracket sets: inclined levers whose outer ends carry the eave purlin (丸桁 *gangyō*) and whose tails are held down inside;
+3. **hanegi** in the hidden roof (§ 2.7), which carry most of the eave load in medieval and later buildings.
+
+**R11-032** — *Must.* In temple eaves, identify which elements actually carry the eave (bracket sets, tail rafters, hanegi) and design or repair each for its real share of the load. *Why:* in buildings with hanegi the bracket sets may carry little load. In buildings without them the bracket sets carry everything. Treating ornamental members as structural (or the reverse) misdirects repair.
+
+### 5.6 Heavy rafters (力垂木 chikara-daruki)
+
+The term 力垂木 ("strength rafter") is used for heavier rafters inserted into a run of ordinary rafters (at intervals, at the ends of a run, at corners or under concentrated loads) to stiffen the eave or carry loads the ordinary rafters cannot. **Flag:** the term's exact use varies between regions and between house and temple work. Treat it as a description of function rather than a fixed member type.
+
+**R11-033** — *Should.* Where an eave carries concentrated loads (a gutter outlet, a snow-guard, the corner of a verge, an access point), provide a heavier rafter or a double rafter at that point instead of relying on the common rafters. *Why:* the common rafter is sized for distributed load. Local overloads crack rafters at the plate.
+
+---
+
 <!-- CONTINUE -->
