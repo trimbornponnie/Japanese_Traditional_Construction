@@ -51,7 +51,7 @@ The intervals for half and full dismantling are broad generalisations; they depe
 |---|---|---|---|
 | Thatch (susuki, reed) | 茅葺 *kayabuki* | c. 20–40 years (full); partial "insertion" repair every few years | Longer where the roof dries well (steep, smoke-cured in houses with an irori); shorter in shade/humidity. See 差し茅 §5.9. |
 | Hinoki bark | 檜皮葺 *hiwadabuki* | c. 30–40 years | Bark harvested from living hinoki by specialists (原皮師 *motokawashi*) at c. 8–10+ year intervals from the same tree. |
-| Wood shingle | 柿葺 *kokerabuki* | c. 20–30 years | Thin split sawara/sugi shingles, bamboo-nailed. |
+| Wood shingle | 杮葺 *kokerabuki* | c. 20–30 years | Thin split sawara/sugi shingles, bamboo-nailed. |
 | Thick shingle | 栩葺 *tochibuki* / 木賊葺 *tokusabuki* | c. 25–40 years | Thicker shingles; longer lived. |
 | Clay tile | 本瓦葺 *hongawarabuki* | Re-laying (葺き直し *fukinaoshi*) c. 60–100 years, with partial tile replacement in between | Tiles reused where sound; mud bedding (葺き土) and substrate renewed. |
 | Copper sheet | 銅板葺 *dōbanbuki* | c. 60+ years | Modern replacement roofing for many shrines. |

@@ -18,7 +18,7 @@ This is a working reference that gathers the **construction rules** of Japanese 
 
 ## At a glance
 
-- **17 chapters of rules + a glossary**, about 216,000 words.
+- **17 chapters of rules + a glossary of 1,018 terms**, about 238,000 words.
 - **1,035 numbered rules** (R01-001 … R17-032), each with its strength (Must / Should / May) and, where needed, its reason.
 - Joint entries follow one template (use, load behaviour, proportions, orientation, marking, cutting sequence, assembly, errors, variants), with dimension tables for 105 / 120 / 150 mm and 4 / 5 *sun* members.
 - Points that could not be verified are marked in the text ("representative", "verify", "c."), and Chapters 01, 06, 07, 12, 13, 14, 16 and 17 end with a list of sources or open questions.

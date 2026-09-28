@@ -223,7 +223,7 @@ The oak body moves with humidity and wears in use. A Japanese plane sole is **no
 | Chamfer plane | 面取り鉋 *mentori-ganna* | Fixed fence and depth stop; many profiles (→ §13.3) | Chamfers and small mouldings on arrises |
 | Grooving plane | 溝鉋 *mizo-ganna* (also 決り鉋 *shakuri-ganna*) | Narrow blade with fence | Grooves in *shikii* and *kamoi*, panel grooves |
 | Groove-bottom plane (router plane) | 底取り鉋 *sokotori-ganna* | Blade projecting below a broad sole | Leveling the bottom of housings and grooves to a set depth |
-| Rebate plane | 相决り鉋 *aijakuri-ganna* (rebate-plane family; names vary regionally) | Blade the full width of the sole | Rebates (*shakuri*) for lapped boards, *hame-ita* |
+| Rebate plane | 相決り鉋 *aijakuri-ganna* (rebate-plane family; names vary regionally) | Blade the full width of the sole | Rebates (*shakuri*) for lapped boards, *hame-ita* |
 
 **R04-016** — **Should.** Plane with the grain (順目 *naraime*). A first guess from orientation: on the *kiomote* face plane from *sue* toward *moto*, and on the *kiura* face from *moto* toward *sue*. Always confirm by reading the grain on the edge, since local grain overrides the rule.
 *Why:* planing against the grain (逆目 *sakame*) tears fibres below the surface.

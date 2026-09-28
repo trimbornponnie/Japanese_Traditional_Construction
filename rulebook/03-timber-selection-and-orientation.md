@@ -165,7 +165,7 @@ Densities are **air-dry** (≈ 15 % moisture content), in g/cm³, as representat
 
 #### Sawara (椹, *sawara*)
 - **Properties.** Like a lighter, softer, less-scented hinoki. Splits cleanly. Water-resistant.
-- **Uses.** Tubs and buckets (*oke*), rice tubs, bath fittings, ceiling boards. Split shingles (*kokera-ita*, 柿板) for *kokerabuki* roofs; hinoki and sugi shingles are also used. Sawara is one of the Five Trees of Kiso.
+- **Uses.** Tubs and buckets (*oke*), rice tubs, bath fittings, ceiling boards. Split shingles (*kokera-ita*, 杮板) for *kokerabuki* roofs; hinoki and sugi shingles are also used. Sawara is one of the Five Trees of Kiso.
 
 #### Kōyamaki (高野槇, *kōyamaki*)
 - **Properties.** Resists water and rot. Easy to work.

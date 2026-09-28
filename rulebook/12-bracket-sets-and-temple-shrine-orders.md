@@ -104,7 +104,7 @@ The general principle is that **the kumimono stack is a gravity-held assembly**:
 - **Load behaviour:** short-span bending and shear between to; in projecting sets, cantilever bending about the daito.
 - **Proportions (representative):** thickness (width) ≈ the width of the to's slot = roughly the tojiri base width of the makito it carries; depth (成 *sei*) ≈ 1.0–1.3 × makito height. Length for a three-block arm is governed by the rafter module in rokushigake (§5.3): outer-face to outer-face of the end makito = 5 shi + 1 rafter width.
 - **Orientation rules:** where two arms cross in the daito or a hōto, the arm parallel to the wall and the projecting arm are half-lapped and **both run continuously through the block**. Which of the two is the lower (notched-from-above) member differs between styles, schools and even tiers of one set — record and follow the precedent; in new work, make the member with the larger cantilever the one whose lap is shallower if the design allows unequal laps.
-- **Marking:** centre lines of each to seat; the underside end profile from a template (型板 *katagi*) of the building's style.
+- **Marking:** centre lines of each to seat; the underside end profile from a template (型板 *kataita*) of the building's style.
 
 Named kinds of arm:
 
