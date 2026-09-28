@@ -310,7 +310,7 @@ Introduced by the monk **Chōgen** (重源, 1121–1206) for the rebuilding of T
 
 **Characteristic members and joints**
 - **挿肘木 sashi-hijiki:** bracket arms are **tenoned into the columns**, tier above tier. At the Nandaimon, six tiers of sashi-hijiki project from the columns to carry the eave. The column itself is the spine of the bracket system; there is no separate daito on top for each arm.
-- **貫 nuki:** multiple penetrating ties pass *through* the columns at several levels (頭貫, 飛貫, 内法貫 etc.), wedged, making the frame rigid in both directions. At the Nandaimon the nuki pass at many levels through columns about 19 m tall.
+- **貫 nuki:** multiple penetrating ties pass *through* the columns at several levels (頭貫, 飛貫, 内法貫 etc.), wedged, making the frame rigid in both directions. At the Nandaimon the nuki pass at many levels through single columns roughly 20 m long (figures vary by source; the gate is c. 25 m high overall).
 - **遊離尾垂木 yūri-odaruki** ("detached tail rafter"): a lever-like odaruki placed between the columns (as nakazonae), pivoting on a tie/arm tier, its outer end supporting the eave purlin mid-bay and its inner end restrained by the structure — balancing eave and roof loads by the lever principle.
 - **皿斗 sarato:** blocks with a plate at their base.
 - **木鼻 kibana:** the projecting ends of the nuki and sashi-hijiki beyond the column face are shaped with a simple moulded profile — the origin of the kibana tradition (§10.2).
